@@ -1,0 +1,1324 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT C
+AU Jurgenson, E
+   Sikk, K
+   Hass, H
+   Maasikamae, S
+AF Jurgenson, Evelin
+   Sikk, Kristiin
+   Hass, Helena
+   Maasikamae, Siim
+BE Auzina, A
+TI METHODOLOGY FOR THE DETERMINATION OF PERI-URBAN AREAS ON THE BASIS OF
+   DATA OF LAND TYPE AND USE BY EXAMPLE OF THE TOWN OF TARTU
+SO INTEGRATED AND SUSTAINABLE REGIONAL DEVELOPMENT MARKETING AND
+   SUSTAINABLE CONSUMPTION
+SE Economic Science for Rural Development
+CT International Scientific Conference on Economic Science for Rural
+   Development (ESRD)
+CY APR 27-28, 2017
+CL Jelgava, LATVIA
+SP Latvia Univ Agr, Fac Econ & Social Dev
+RI Maasikamäe, Siim/H-7951-2016; Jürgenson, Evelin/N-8095-2019
+SN 1691-3078
+BN 978-9984-48-261-3
+PY 2017
+IS 45
+BP 110
+EP 117
+UT WOS:000406530100013
+ER
+
+PT J
+AU Usui, H
+AF Usui, Hiroyuki
+TI Densely inhabited districts in consideration of 3D morphological urban
+   areas
+SO SUSTAINABLE CITIES AND SOCIETY
+RI ; Usui, Hiroyuki/K-9136-2019
+OI Usui, Hiroyuki/0000-0002-2447-5372; 
+SN 2210-6707
+EI 2210-6715
+PD NOV 15
+PY 2024
+VL 115
+AR 105668
+DI 10.1016/j.scs.2024.105668
+EA SEP 2024
+UT WOS:001328400900001
+ER
+
+PT C
+AU Liang, HZ
+AF Liang Hongzhi
+BE Deng, MG
+   Ye, JM
+   Kaminishi, K
+   Duysters, G
+   DeHoyos, A
+TI An Eco- economics Analysis on Construction and Development of New Urban
+   Areas
+SO PROCEEDINGS OF THE 7TH INTERNATIONAL CONFERENCE ON INNOVATION AND
+   MANAGEMENT, VOLS I AND II
+CT 7th International Conference on Innovation and Management
+CY DEC 04-05, 2010
+CL Wuhan Univ Technol, Wuhan, PEOPLES R CHINA
+SP Yamaguchi Univ, UNU MERIT, Pontificia Univ Catolica Sao Paulo
+HO Wuhan Univ Technol
+BN 978-7-5629-3370-0
+PY 2010
+BP 1967
+EP 1971
+UT WOS:000290638901126
+ER
+
+PT C
+AU Zou, B
+   Lu, D
+   Wu, ZL
+   Qiao, ZJG
+AF Zou, Bin
+   Lu, Da
+   Wu, Zhilu
+   Qiao, Zhijun G.
+BE Ranney, KI
+   Doerry, A
+TI Urban-area extraction from polarimetric SAR image using combination of
+   target decomposition and orientation angle
+SO RADAR SENSOR TECHNOLOGY XX
+SE Proceedings of SPIE
+CT Conference on Radar Sensor Technology XX
+CY APR 18-21, 2016
+CL Baltimore, MD
+SP SPIE
+SN 0277-786X
+EI 1996-756X
+BN 978-1-5106-0070-6
+PY 2016
+VL 9829
+AR 98291Q
+DI 10.1117/12.2228689
+UT WOS:000382503800053
+ER
+
+PT J
+AU Iannelli, GC
+   Lisini, G
+   Dell'Acqua, F
+   Feitosa, RQ
+   da Costa, GAOP
+   Gamba, P
+AF Iannelli, Gianni Cristian
+   Lisini, Gianni
+   Dell'Acqua, Fabio
+   Feitosa, Raul Queiroz
+   Ostwald Pedro da Costa, Gilson Alexandre
+   Gamba, Paolo
+TI Urban Area Extent Extraction in Spaceborne HR and VHR Data Using
+   Multi-Resolution Features
+SO SENSORS
+RI Gamba, Paolo/G-1959-2010; Feitosa, Raul/D-6570-2017; Dell'Acqua,
+   Fabio/L-5498-2013
+OI Gamba, Paolo/0000-0002-9576-6337; Feitosa, Raul/0000-0001-8344-5096; 
+SN 1424-8220
+PD OCT
+PY 2014
+VL 14
+IS 10
+BP 18337
+EP 18352
+DI 10.3390/s141018337
+UT WOS:000344455700023
+PM 25271564
+ER
+
+PT J
+AU Ye, M
+   Yu, M
+   Guo, XC
+   Liu, YS
+   Li, ZB
+AF Ye, Mao
+   Yu, Miao
+   Guo, Xiucheng
+   Liu, Yingshun
+   Li, Zhibin
+TI Analysis on Residents' Travel Activity Pattern in Historic Urban Areas:
+   A Case Study of Historic Urban Area of Yangzhou, China
+SO MATHEMATICAL PROBLEMS IN ENGINEERING
+RI Zhibin, Li/GQH-6384-2022
+SN 1024-123X
+EI 1563-5147
+PY 2013
+VL 2013
+AR 620973
+DI 10.1155/2013/620973
+UT WOS:000328976700001
+ER
+
+PT J
+AU Aydin, G
+   Dzhaleva-Chonkova, A
+AF Aydin, Gokce
+   Dzhaleva-Chonkova, Anna
+TI Discussions on rail in urban areas and rail history
+SO RESEARCH IN TRANSPORTATION ECONOMICS
+SN 0739-8859
+EI 1875-7979
+PD MAY
+PY 2013
+VL 41
+BP 84
+EP 88
+DI 10.1016/j.retrec.2012.10.002
+UT WOS:000209271400008
+ER
+
+PT C
+AU Boldo, D
+   Le Men, H
+AF Boldo, D
+   Le Men, H
+GP IEEE
+   IEEE
+TI Remote sensing model adaptation to very high resolution digital images
+   of urban areas
+SO IEEE/ISPRS JOINT WORKSHOP ON REMOTE SENSING AND DATA FUSION OVER URBAN
+   AREAS
+CT IEEE/ISPRS Joint Workshop on Remote Sensing and Data Fusion over Urban
+   Areas
+CY NOV 08-09, 2001
+CL UNIV ROME LA SAPIENZA, ROME, ITALY
+SP IEEE, ISPRS, AIT, IEEE, Geosci & Remote Sensing Soc, European Space Agcy, Agenzia Spaziale Italiana, ImageSat Int, Informat Per Territorio, SchlumbergerSema, Telespazio, Amer Soc Photogrammetry & Remote Sensing, Univ Studi Pavia, European Assoc Remote Sensing Labs
+HO UNIV ROME LA SAPIENZA
+BN 0-7803-7059-7
+PY 2001
+BP 20
+EP 24
+DI 10.1109/DFUA.2001.985718
+UT WOS:000175227500005
+ER
+
+PT J
+AU Moriyama, T
+   Uratsuka, S
+   Umehara, T
+   Maeno, H
+   Satake, M
+   Nadai, A
+   Nakamura, K
+AF Moriyama, T
+   Uratsuka, S
+   Umehara, T
+   Maeno, H
+   Satake, M
+   Nadai, A
+   Nakamura, K
+TI Polarimetric SAR image analysis using model fit for urban structures
+SO IEICE TRANSACTIONS ON COMMUNICATIONS
+SN 0916-8516
+EI 1745-1345
+PD MAR
+PY 2005
+VL E88B
+IS 3
+BP 1234
+EP 1243
+DI 10.1093/ietcom/e88-b.3.1234
+UT WOS:000227828900042
+ER
+
+PT J
+AU Ji, CD
+   Kang, ZL
+AF Ji Changdong
+   Kang Zhonglin
+TI Extraction Method of Urban Area From GF-6 Satellite
+SO LASER & OPTOELECTRONICS PROGRESS
+SN 1006-4125
+PD FEB
+PY 2021
+VL 58
+IS 4
+AR 0428003
+DI 10.3788/LOP202158.0428003
+UT WOS:000686478600050
+ER
+
+PT J
+AU Gu, XK
+   Xu, DY
+   Xu, MY
+   Zhang, ZF
+AF Gu, Xiaokun
+   Xu, Deya
+   Xu, Mengyao
+   Zhang, Zhengfeng
+TI Measuring residents' perceptions of multifunctional land use in
+   peri-urban areas of three Chinese megacities: Suggestions for governance
+   from a demand perspective
+SO CITIES
+RI ; Xu, Mengyao/KEI-0851-2024; Xu, Deya/AFL-7763-2022; Zhang,
+   Zhengfeng/MCI-6526-2025
+OI Xu, Deya/0000-0002-9276-6745; 
+SN 0264-2751
+EI 1873-6084
+PD JUL
+PY 2022
+VL 126
+AR 103703
+DI 10.1016/j.cities.2022.103703
+EA MAY 2022
+UT WOS:000807535700004
+ER
+
+PT J
+AU Nakamichi, T
+   Moroizumi, T
+AF Nakamichi, Takeshi
+   Moroizumi, Toshitsugu
+TI Applicability of three complementary relationship models for estimating
+   actual evapotranspiration in urban area
+SO JOURNAL OF HYDROLOGY AND HYDROMECHANICS
+SN 0042-790X
+EI 1338-4333
+PD JUN
+PY 2015
+VL 63
+IS 2
+BP 117
+EP 123
+DI 10.1515/johh-2015-0011
+UT WOS:000356811700004
+ER
+
+PT J
+AU Kaseb, Z
+   Hafezi, M
+   Tahbaz, M
+   Delfani, S
+AF Kaseb, Zeynab
+   Hafezi, Mohammadreza
+   Tahbaz, Mansoureh
+   Delfani, Shahram
+TI A framework for pedestrian-level wind conditions improvement in urban
+   areas: CFD simulation and optimization
+SO BUILDING AND ENVIRONMENT
+RI Delfani, Shahram/HGA-1704-2022; Tahbaz, Mansoureh/ABB-7994-2021; Kaseb,
+   Zeynab/AAD-7160-2021
+OI Delfani, Shahram/0000-0002-3077-6366; Kaseb, Zeynab/0000-0002-5142-2903
+SN 0360-1323
+EI 1873-684X
+PD OCT 15
+PY 2020
+VL 184
+AR 107191
+DI 10.1016/j.buildenv.2020.107191
+UT WOS:000579907200004
+ER
+
+PT C
+AU Cafiso, S
+   La Cava, G
+   Pappalardo, G
+AF Cafiso, Salvatore
+   La Cava, Grazia
+   Pappalardo, Giuseppina
+BE DAndrea, A
+   Moretti, L
+TI A Comparative Analysis of Powered Two Wheelers Crash Severity among
+   Different Urban Areas
+SO SIIV-5TH INTERNATIONAL CONGRESS - SUSTAINABILITY OF ROAD INFRASTRUCTURES
+   2012
+SE Procedia Social and Behavioral Sciences
+CT 5th International Congress on Sustainability of Road Infrastructures
+   (SIIV)
+CY OCT 29-31, 2012
+CL Rome, ITALY
+SP Societa Italiana Infrastrutture Viarie, Roma Capitale, Provincia Roma, Consiglio Regionale Lazio, Ente Nazl lAviazione Civile (ENAC), ISAP, AITEC, Pavimental, Ecopneus, Total, Valli Zabban, Aisico, GruppoSeipa
+RI Pappalardo, Giuseppina/AAS-7153-2021
+SN 1877-0428
+PY 2012
+VL 53
+BP 891
+EP 900
+DI 10.1016/j.sbspro.2012.09.938
+UT WOS:000312560400085
+ER
+
+PT J
+AU Wu, WJ
+   Zhao, HR
+   Jiang, SL
+AF Wu, Wenjia
+   Zhao, Hongrui
+   Jiang, Shulong
+TI A Zipf's Law-Based Method for Mapping Urban Areas Using NPP-VIIRS
+   Nighttime Light Data
+SO REMOTE SENSING
+RI wenjia, Wu/KBQ-7301-2024
+SN 2072-4292
+PD JAN
+PY 2018
+VL 10
+IS 1
+AR 130
+DI 10.3390/rs10010130
+UT WOS:000424092300128
+ER
+
+PT C
+AU Khalili, A
+   van den Besselaar, P
+   de Graaf, KA
+AF Khalili, Ali
+   van den Besselaar, Peter
+   de Graaf, Klaas Andries
+BE Gangemi, A
+   Gentile, AL
+   Nuzzolese, AG
+   Rudolph, S
+   Maleshkova, M
+   Paulheim, H
+   Pan, JZ
+   Alam, M
+TI Using Linked Open Geo Boundaries for Adaptive Delineation of Functional
+   Urban Areas
+SO SEMANTIC WEB: ESWC 2018 SATELLITE EVENTS
+SE Lecture Notes in Computer Science
+CT 15th Extended Semantic Web Conference (ESWC)
+CY JUN 03-07, 2018
+CL Heraklion, GREECE
+RI van den Besselaar, Peter/A-8945-2011; van den Besselaar,
+   Peter/E-5938-2013
+OI Khalili, Ali/0000-0002-8874-6485; de Graaf, Klaas
+   Andries/0000-0003-3385-9906; van den Besselaar,
+   Peter/0000-0002-8304-8565
+SN 0302-9743
+EI 1611-3349
+BN 978-3-319-98192-5; 978-3-319-98191-8
+PY 2018
+VL 11155
+BP 327
+EP 341
+DI 10.1007/978-3-319-98192-5_51
+UT WOS:000460953300051
+ER
+
+PT C
+AU Vintila, M
+   Goian, C
+   Istrat, D
+AF Vintila, Mona
+   Goian, Cosmin
+   Istrat, Daliana
+BE Mazure, G
+TI Comparative Analysis of Stress in Women from Rural and Urban Areas
+SO ECONOMIC SCIENCE FOR RURAL DEVELOPMENT: RESOURCES AND EDUCATION
+SE Economic Science for Rural Development
+CT 12th International Scientific Conference on Economic Science for Rural
+   Development
+CY APR 28-29, 2011
+CL Latvia Univ Agr, Fac Econ, Jelgava, LATVIA
+HO Latvia Univ Agr, Fac Econ
+RI Vintila, Mona/AAC-1563-2022
+SN 1691-3078
+EI 2255-9930
+BN 978-9984-9997-6-0
+PY 2011
+IS 25
+BP 245
+EP 250
+UT WOS:000325811000027
+ER
+
+PT J
+AU Oladeji, PB
+   Agbabiaka, HI
+   Adewole, HA
+AF Oladeji, Peter Bolaji
+   Agbabiaka, Hafeez Idowu
+   Adewole, Hafiiz Adebayo
+TI SOCIOECONOMIC VARIABILITY OF HOUSEHOLDS' TRAVEL BEHAVIOUR IN THE
+   PERI-URBAN AREAS OF IBADAN, NIGERIA
+SO SCIENTIFIC JOURNAL OF SILESIAN UNIVERSITY OF TECHNOLOGY-SERIES TRANSPORT
+RI Agbabiaka, Hafeez/F-5413-2018
+OI Agbabiaka, Hafeez/0000-0003-4872-7105
+SN 0209-3324
+EI 2450-1549
+PY 2022
+VL 114
+BP 115
+EP 130
+DI 10.20858/sjsutst.2022.114.10
+UT WOS:000881201900010
+ER
+
+PT J
+AU Iqbal, MZ
+   Jilani, A
+   Shafiq, M
+   Kabir, M
+   Farooqi, ZUR
+AF Iqbal, Muhammad Zafar
+   Jilani, Amir
+   Shafiq, Muhammad
+   Kabir, Muhammad
+   Farooqi, Zia-ur-Rehman
+TI Seasonal variations in some soil characteristics on urban area of
+   Karachi, Pakistan
+SO BIOSCIENCE RESEARCH
+RI Kabir, Dr. Muhammad/AFK-3490-2022; Farooqi, Zia Ur Rahman/HPC-7445-2023;
+   , DrMuhammadShafiq/AAH-5235-2020
+SN 1811-9506
+EI 2218-3973
+PD APR-JUN
+PY 2020
+VL 17
+IS 2
+BP 786
+EP 792
+UT WOS:000562403400023
+ER
+
+PT C
+AU Zhou, WS
+   Zhang, SL
+   Shi, HC
+AF Zhou, Wensheng
+   Zhang, Shenglei
+   Shi, Haichuan
+BE Bian, F
+   Xie, Y
+TI Research on Classification and Coding of Government Information
+   Resources for Urban Area Development
+SO GEO-INFORMATICS IN RESOURCE MANAGEMENT AND SUSTAINABLE ECOSYSTEM
+SE Communications in Computer and Information Science
+CT 3rd Annual International Conference on Geo-Informatics in Resource
+   Management and Sustainable Ecosystem (GRMSE)
+CY OCT 16-18, 2015
+CL Wuhan, PEOPLES R CHINA
+SP Wuhan Univ, Int Sch Software, Wuhan Univ, Sch Remote Sensing & Informat Engn, Eastern Michigan Univ
+RI Zhou, wensheng/OFN-7511-2025
+SN 1865-0929
+BN 978-3-662-49155-3; 978-3-662-49154-6
+PY 2016
+VL 569
+BP 137
+EP 146
+DI 10.1007/978-3-662-49155-3_13
+UT WOS:000373275200013
+ER
+
+PT J
+AU Zhang, Q
+   Huang, X
+   Zhang, GX
+AF Zhang, Qian
+   Huang, Xin
+   Zhang, Guixu
+TI Urban Area Extraction by Regional and Line Segment Feature Fusion and
+   Urban Morphology Analysis
+SO REMOTE SENSING
+RI ; Huang, Xin/C-8355-2014
+OI Zhang, Qian/0000-0003-3041-643X; 
+EI 2072-4292
+PD JUL
+PY 2017
+VL 9
+IS 7
+AR 663
+DI 10.3390/rs9070663
+UT WOS:000406676800026
+ER
+
+PT J
+AU Wang, WG
+AF Wang, Weiguo
+TI The Influence of Thermally-Induced Mesoscale Circulations on Turbulence
+   Statistics Over an Idealized Urban Area Under a Zero Background Wind
+SO BOUNDARY-LAYER METEOROLOGY
+RI Wang, Weiguo/B-4948-2009
+SN 0006-8314
+EI 1573-1472
+PD JUN
+PY 2009
+VL 131
+IS 3
+BP 403
+EP 423
+DI 10.1007/s10546-009-9378-2
+UT WOS:000265831400005
+ER
+
+PT J
+AU Motomura, M
+   Koohsari, MJ
+   Lin, CY
+   Ishii, K
+   Shibata, A
+   Nakaya, T
+   Kaczynski, AT
+   Veitch, J
+   Oka, K
+AF Motomura, Monica
+   Koohsari, Mohammad Javad
+   Lin, Chien-Yu
+   Ishii, Kaori
+   Shibata, Ai
+   Nakaya, Tomoki
+   Kaczynski, Andrew T.
+   Veitch, Jenny
+   Oka, Koichiro
+TI Associations of public open space attributes with active and sedentary
+   behaviors in dense urban areas: A systematic review of observational
+   studies
+SO HEALTH & PLACE
+RI Koohsari, Javad/A-4613-2009; Oka, Koichiro/K-3297-2019; Nakaya,
+   Tomoki/AFL-7923-2022; cheng, chien-yu/M-1108-2019; Koohsari, Mohammad
+   Javad/A-4613-2009; Veitch, Jenny/I-5934-2014
+OI Motomura, Monica/0000-0002-1892-3968; Koohsari, Mohammad
+   Javad/0000-0001-9384-5456; Shibata, Ai/0000-0002-0241-3103
+SN 1353-8292
+EI 1873-2054
+PD MAY
+PY 2022
+VL 75
+AR 102816
+DI 10.1016/j.healthplace.2022.102816
+EA MAY 2022
+UT WOS:000806357400001
+PM 35580456
+ER
+
+PT J
+AU Zerbo, A
+   Delgado, RC
+   González, PA
+AF Zerbo, Alexandre
+   Castro Delgado, Rafael
+   Arcos Gonzalez, Pedro
+TI Conceptual frameworks regarding waterborne diseases in sub-Saharan
+   Africa and the need of for a new approach to urban exposomes
+SO EPIDEMIOLOGY AND HEALTH
+RI ZERBO, Alexandre/AEO-2045-2022; Arcos González, Pedro/T-7630-2019; Arcos
+   Gonzalez, Pedro/T-7630-2019; Castro-Delgado, Rafael/GQQ-8817-2022;
+   Castro delgado, Rafael/GQQ-8817-2022
+OI Arcos Gonzalez, Pedro/0000-0003-4882-5442; Zerbo,
+   Alexandre/0000-0003-4486-6079; Castro delgado,
+   Rafael/0000-0001-9520-656X
+SN 2092-7193
+PD OCT 6
+PY 2021
+VL 43
+AR e2021079
+DI 10.4178/epih.e2021079
+UT WOS:000737315000001
+PM 34645205
+ER
+
+PT J
+AU Zhai, WX
+   Han, B
+   Cheng, CQ
+AF Zhai, Weixin
+   Han, Bing
+   Cheng, Chengqi
+TI Evaluation of Luojia 1-01 Nighttime Light Imagery for Built-Up Urban
+   Area Extraction: A Case Study of 16 Cities in China
+SO IEEE GEOSCIENCE AND REMOTE SENSING LETTERS
+RI ; Zhai, Weixin/GQQ-2573-2022
+OI Zhai, Weixin/0000-0002-5507-6593; Bing, Han/0000-0002-4890-7563
+SN 1545-598X
+EI 1558-0571
+PD OCT
+PY 2020
+VL 17
+IS 10
+BP 1802
+EP 1806
+DI 10.1109/LGRS.2019.2955496
+UT WOS:000573808500029
+ER
+
+PT J
+AU Kinoshita, T
+   Kato, E
+   Iwao, K
+   Yamagata, Y
+AF Kinoshita, Tsuguki
+   Kato, Etsushi
+   Iwao, Koki
+   Yamagata, Yoshiki
+TI Investigating the rank-size relationship of urban areas using land cover
+   maps
+SO GEOPHYSICAL RESEARCH LETTERS
+RI Iwao, Koki/M-7524-2018; Yamagata, Yoshiki/T-6489-2019; Kato,
+   Etsushi/Q-2623-2018
+OI Iwao, Koki/0000-0001-9207-7029; Kato, Etsushi/0000-0001-8814-804X
+SN 0094-8276
+EI 1944-8007
+PD SEP 11
+PY 2008
+VL 35
+IS 17
+AR L17405
+DI 10.1029/2008GL035163
+UT WOS:000259199700003
+ER
+
+PT J
+AU Hiepko, AT
+   Shoham, N
+   McManus, S
+   Cooper, C
+AF Hiepko, Alexander Thomas
+   Shoham, Natalie
+   McManus, Sally
+   Cooper, Claudia
+TI Population density and receipt of care for common mental disorders: a
+   cross-sectional analysis of English household data from the 2014 Adult
+   Psychiatric Morbidity Survey
+SO BMJ OPEN
+RI McManus, Sally/HGD-4860-2022; Shoham, Natalie/AAN-2080-2021; Shoham,
+   Natalie/AAN-2080-2021; McManus, Sally/J-8527-2015; Cooper,
+   Claudia/KHX-2436-2024; Cooper, Claudia/C-1556-2008
+OI Shoham, Natalie/0000-0002-2317-7728; Shoham,
+   Natalie/0000-0002-2317-7728; Hiepko, Alexander/0009-0001-4448-6108;
+   McManus, Sally/0000-0003-2711-0819; Cooper, Claudia/0000-0002-2777-7616
+SN 2044-6055
+PD MAY 23
+PY 2024
+VL 14
+IS 5
+BP 1
+EP 9
+DI 10.1136/bmjopen-2023-078635
+UT WOS:001303795000001
+PM 38803249
+ER
+
+PT J
+AU Kang, Y
+   Baidya, A
+   Aaron, A
+   Wang, J
+   Chan, C
+   Wetzler, E
+AF Kang, Yunhee
+   Baidya, Anurima
+   Aaron, Alec
+   Wang, Jun
+   Chan, Christabel
+   Wetzler, Erica
+TI Differences in the early impact of COVID-19 on food security and
+   livelihoods in rural and urban areas in the Asia Pacific Region
+SO GLOBAL FOOD SECURITY-AGRICULTURE POLICY ECONOMICS AND ENVIRONMENT
+RI Baidya, Anurima/KBD-0341-2024
+OI Baidya, Anurima/0000-0002-2436-9270; Wang, Jun/0000-0002-8593-2469
+SN 2211-9124
+PD DEC
+PY 2021
+VL 31
+AR 100580
+DI 10.1016/j.gfs.2021.100580
+EA SEP 2021
+UT WOS:000705398800003
+PM 36570721
+ER
+
+PT J
+AU Salarijazi, M
+   Ghorbani, K
+   Mohammadi, M
+   Ahmadianfar, I
+   Mohammadrezapour, O
+   Naser, MH
+   Yaseen, ZM
+AF Salarijazi, Meysam
+   Ghorbani, Khalil
+   Mohammadi, Mehdi
+   Ahmadianfar, Iman
+   Mohammadrezapour, Ommolbani
+   Naser, Maryam H.
+   Yaseen, Zaher Mundher
+TI Spatial-temporal estimation of maximum temperature high returns periods
+   for annual time series considering stationary/nonstationary approaches
+   in Iran urban area
+SO URBAN CLIMATE
+RI Salarijazi, Meysam/D-5552-2019; H. Naser, Maryam/AAI-9194-2021; Yaseen,
+   Zaher/G-7029-2018; , iman/H-4868-2019
+OI Yaseen, Zaher/0000-0003-3647-7137; 
+SN 2212-0955
+PD MAY
+PY 2023
+VL 49
+AR 101504
+DI 10.1016/j.uclim.2023.101504
+EA MAR 2023
+UT WOS:001054769100001
+ER
+
+PT J
+AU Tom, T
+AF Tom, Tom
+TI Accessibility, security, and associated policy issues for people with
+   disabilities in Zimbabwe's urban areas
+SO JOURNAL OF URBAN AFFAIRS
+RI tom, tom/GSN-7258-2022
+SN 0735-2166
+EI 1467-9906
+PD 2024 AUG 12
+PY 2024
+DI 10.1080/07352166.2024.2379890
+EA AUG 2024
+UT WOS:001289502600001
+ER
+
+PT J
+AU Lu, Z
+   Streets, DG
+   de Foy, B
+   Lamsal, LN
+   Duncan, BN
+   Xing, J
+AF Lu, Z.
+   Streets, D. G.
+   de Foy, B.
+   Lamsal, L. N.
+   Duncan, B. N.
+   Xing, J.
+TI Emissions of nitrogen oxides from US urban areas: estimation from Ozone
+   Monitoring Instrument retrievals for 2005-2014
+SO ATMOSPHERIC CHEMISTRY AND PHYSICS
+RI ; Lamsal, Lok/G-4781-2012; Duncan, Bryan/A-5962-2011; de Foy,
+   Benjamin/A-9902-2010; Xing, Jia/AGU-6768-2022; de Foy,
+   Benjamin/I-8050-2019; Lu, Zifeng/F-3266-2012
+OI Xing, Jia/0000-0001-7574-2381; de Foy, Benjamin/0000-0003-4150-9922; Lu,
+   Zifeng/0000-0001-7331-5861
+SN 1680-7316
+EI 1680-7324
+PY 2015
+VL 15
+IS 18
+BP 10367
+EP 10383
+DI 10.5194/acp-15-10367-2015
+UT WOS:000362457400009
+ER
+
+PT C
+AU Molnar, B
+   Laky, S
+   Toth, C
+AF Molnar, B.
+   Laky, S.
+   Toth, C.
+BE Stilla, U
+   Rottensteiner, F
+   Mayer, H
+   Jutzi, B
+   Butenuth, M
+TI USING FULL WAVEFORM DATA IN URBAN AREAS
+SO PIA11: PHOTOGRAMMETRIC IMAGE ANALYSIS, 2011
+SE International Archives of the Photogrammetry Remote Sensing and Spatial
+   Information Sciences
+CT International-Society-for-Photogrammetry-and-Remote-Sensing Conference
+   on Photogrammetric Image Analysis (PIA)
+CY OCT 05-07, 2011
+CL Tech Univ Muenchen, Munich, GERMANY
+SP Int Soc Photogrammetry Remote Sens, MVTec Software GmbH, INPHO GmbH
+HO Tech Univ Muenchen
+RI Molnar, Bence/G-8578-2012
+OI Molnar, Bence/0000-0002-2602-2684
+SN 2194-9034
+PY 2011
+VL 38-3
+IS W22
+BP 203
+EP 208
+UT WOS:000358311000026
+ER
+
+PT J
+AU Protic, AG
+   Krunic, N
+   Protic, B
+AF Protic, Aleksandra Gajic
+   Krunic, Nikola
+   Protic, Branko
+TI Detecting Serbia's Settlement Patterns: A Fuzzy Logic-Based Approach to
+   Rural-Urban Area Delimitation for Spatial Planning
+SO LAND
+RI Protić, Branko/KHD-3268-2024
+OI Protic, Branko/0000-0002-0053-1114
+EI 2073-445X
+PD DEC
+PY 2024
+VL 13
+IS 12
+AR 1981
+DI 10.3390/land13121981
+UT WOS:001386799000001
+ER
+
+PT J
+AU Encarnaçao, S
+   Gaudiano, M
+   Santos, FC
+   Tenedório, JA
+   Pacheco, JM
+AF Encarnacao, Sara
+   Gaudiano, Marcos
+   Santos, Francisco C.
+   Tenedorio, Jose A.
+   Pacheco, Jorge M.
+TI Fractal cartography of urban areas
+SO SCIENTIFIC REPORTS
+RI Tenedorio, Jose Antonio/J-6428-2017; Santos, Francisco C./D-2394-2010;
+   Pacheco, Jorge M./B-6116-2008; Tenedório, José/J-6428-2017; Santos,
+   Francisco/W-7781-2019
+OI Tenedorio, Jose Antonio/0000-0003-3047-0807; Santos, Francisco
+   C./0000-0002-9103-2862; Pacheco, Jorge M./0000-0002-2579-8499;
+   Encarnacao, Sara/0000-0001-8262-2927
+SN 2045-2322
+PD JUL 24
+PY 2012
+VL 2
+AR 527
+DI 10.1038/srep00527
+UT WOS:000306710300002
+PM 22829981
+ER
+
+PT J
+AU Chen, WL
+   Xu, Q
+   Zhao, KY
+   Hao, LA
+   Pu, CH
+   Yuan, S
+   Chui, S
+   Zhao, HX
+   Yang, K
+AF Chen, Wanlin
+   Xu, Qiang
+   Zhao, Kuanyao
+   Hao, Lina
+   Pu, Chuanhao
+   Yuan, Shuang
+   Chui, Shuai
+   Zhao, Haoxing
+   Yang, Ke
+TI Spatiotemporal expansion modes of urban areas on the Loess Plateau from
+   1992 to 2021 based on nighttime light images
+SO INTERNATIONAL JOURNAL OF APPLIED EARTH OBSERVATION AND GEOINFORMATION
+RI Zhao, Kuanyao/LZH-4765-2025; Yuan, Shuang/GSJ-6136-2022
+OI Yuan, Shuang/0000-0002-0626-5240
+SN 1569-8432
+EI 1872-826X
+PD APR
+PY 2023
+VL 118
+AR 103262
+DI 10.1016/j.jag.2023.103262
+EA MAR 2023
+UT WOS:000994622700001
+ER
+
+PT J
+AU Holtz, G
+   Xia-Bauer, C
+   Roelfes, M
+   Schüle, R
+   Vallentin, D
+   Martens, L
+AF Holtz, Georg
+   Xia-Bauer, Chun
+   Roelfes, Michaela
+   Schuele, Ralf
+   Vallentin, Daniel
+   Martens, Lilia
+TI Competences of local and regional urban governance actors to support
+   low-carbon transitions: Development of a framework and its application
+   to a case-study
+SO JOURNAL OF CLEANER PRODUCTION
+OI Schule, Ralf/0000-0002-4490-4648; Vallentin, Daniel/0000-0001-7132-2822;
+   Holtz, Georg/0000-0002-8248-9828
+SN 0959-6526
+EI 1879-1786
+PD MAR 10
+PY 2018
+VL 177
+BP 846
+EP 856
+DI 10.1016/j.jclepro.2017.12.137
+UT WOS:000424186600075
+ER
+
+PT C
+AU Ferro-Famil, L
+   Lavalle, M
+AF Ferro-Famil, Laurent
+   Lavalle, Marco
+GP IEEE
+TI DETECTION AND ANALYSIS OF URBAN AREAS USING ALOS PALSAR POLARIMETRIC
+   DATA
+SO 2009 IEEE INTERNATIONAL GEOSCIENCE AND REMOTE SENSING SYMPOSIUM, VOLS
+   1-5
+SE IEEE International Symposium on Geoscience and Remote Sensing IGARSS
+CT IEEE International Geoscience and Remote Sensing Symposium
+CY JUL 12-17, 2009
+CL Cape Town, SOUTH AFRICA
+SP IEEE
+SN 2153-6996
+BN 978-1-4244-3394-0
+PY 2009
+BP 3567
+EP +
+DI 10.1109/IGARSS.2009.5417711
+UT WOS:000281054102169
+ER
+
+PT J
+AU Kovács, A
+   Szirányi, T
+AF Kovacs, Andrea
+   Sziranyi, Tamas
+TI Improved Harris Feature Point Set for Orientation-Sensitive Urban-Area
+   Detection in Aerial Images
+SO IEEE GEOSCIENCE AND REMOTE SENSING LETTERS
+RI ; Sziranyi, Tamas/A-3410-2008
+OI Sziranyi, Tamas/0000-0003-2989-0214; 
+SN 1545-598X
+EI 1558-0571
+PD JUL
+PY 2013
+VL 10
+IS 4
+BP 796
+EP 800
+DI 10.1109/LGRS.2012.2224315
+UT WOS:000320720300008
+ER
+
+PT C
+AU Han, WH
+   Tong, L
+   Chen, YP
+AF Han, Weihong
+   Tong, Ling
+   Chen, Yunping
+BE Liu, X
+   Hsu, R
+   Wang, P
+   Xia, F
+   Wang, Y
+   Dong, M
+   Deng, Y
+TI Aerosol Retrieval Over Urban Area By Syngertic Use of Feng Yun-3C MERSI
+   And Terra MODIS Data
+SO 2015 IEEE INTERNATIONAL CONFERENCE ON SMART CITY/SOCIALCOM/SUSTAINCOM
+   (SMARTCITY)
+CT 2015 IEEE International Conference on Smart City/SocialCom/SustainCom
+   (SmartCity)
+CY DEC 19-21, 2015
+CL Chengdu, PEOPLES R CHINA
+SP IEEE, IEEE Comp Soc, IEEE Tech Comm Scalable Comp, Univ Elect Sci & Technol of China, Asia Pacific Econ Cooperat, StFX Univ, Ubiquitous Media Commun Lab
+RI ; Tong, Ling/AAA-8691-2022
+OI Tong, Ling/0000-0003-1883-7792; 
+BN 978-1-5090-1893-2
+PY 2015
+BP 108
+EP 111
+DI 10.1109/SmartCity.2015.55
+UT WOS:000392313100018
+ER
+
+PT J
+AU Gundlach, JL
+   Sadzikowski, AB
+   Studzinska, MB
+   Tomczuk, K
+AF Gundlach, JL
+   Sadzikowski, AB
+   Studzinska, MB
+   Tomczuk, K
+TI Invasion of Giardia spp. and Cryptosporidium spp. in dogs and cats
+SO MEDYCYNA WETERYNARYJNA-VETERINARY MEDICINE-SCIENCE AND PRACTICE
+RI Tomczuk, Krszysztof/AAI-8815-2021
+OI TOMCZUK, KRZYSZTOF/0000-0002-8119-0453
+SN 0025-8628
+PD NOV
+PY 2004
+VL 60
+IS 11
+BP 1202
+EP 1203
+UT WOS:000224821700016
+ER
+
+PT C
+AU Yang, B
+   Mao, GQ
+   Ge, XH
+   Chen, HH
+   Han, T
+   Zhang, XF
+AF Yang, Bin
+   Mao, Guoqiang
+   Ge, Xiaohu
+   Chen, Hsiao-Hwa
+   Han, Tao
+   Zhang, Xuefei
+GP IEEE
+TI Coverage Analysis of Heterogeneous Cellular Networks in Urban Areas
+SO 2016 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)
+SE IEEE International Conference on Communications
+CT IEEE International Conference on Communications (ICC)
+CY MAY 23-27, 2016
+CL Kuala Lumpur, MALAYSIA
+SP IEEE, IEEE Commun Soc
+RI Ge, Xiaohu/N-8504-2015; Mao, Guoqiang/Q-4196-2019; yang,
+   Bin/N-8482-2015; Mao, Guoqiang/G-2585-2017
+OI Ge, Xiaohu/0000-0002-3204-5241; Mao, Guoqiang/0000-0002-3598-4949
+SN 1550-3607
+BN 978-1-4799-6664-6
+PY 2016
+DI 10.1109/ICC.2016.7510819
+UT WOS:000390993201015
+ER
+
+PT J
+AU Hornis, W
+   Van Eck, JR
+AF Hornis, Willemieke
+   Van Eck, Jan Ritsema
+TI A TYPOLOGY OF PERI-URBAN AREAS IN THE NETHERLANDS
+SO TIJDSCHRIFT VOOR ECONOMISCHE EN SOCIALE GEOGRAFIE
+SN 0040-747X
+EI 1467-9663
+PY 2008
+VL 99
+IS 5
+BP 619
+EP 628
+DI 10.1111/j.1467-9663.2008.00497.x
+UT WOS:000262288500007
+ER
+
+PT J
+AU Araujo, AD
+   Machado, RB
+AF Araujo, Angela Dutra
+   Machado, Ricardo Bomfim
+TI Acoustic communities in an environmental gradient from native to urban
+   areas in Central Brazil
+SO AUSTRAL ECOLOGY
+RI Machado, Ricardo/J-5894-2012
+OI Machado, Ricardo/0000-0002-6508-9005
+SN 1442-9985
+EI 1442-9993
+PD DEC
+PY 2023
+VL 48
+IS 8
+SI SI
+BP 1941
+EP 1960
+DI 10.1111/aec.13432
+EA SEP 2023
+UT WOS:001064270600001
+ER
+
+PT C
+AU Guo, JX
+   Ren, HZ
+   Zheng, YT
+   Nie, J
+   Chen, SS
+   Sun, YH
+   Qin, QM
+AF Guo, Jinxin
+   Ren, Huazhong
+   Zheng, Yitong
+   Nie, Jing
+   Chen, Shanshan
+   Sun, Yuanheng
+   Qin, Qiming
+GP IEEE
+TI IDENTIFY URBAN AREA FROM REMOTE SENSING IMAGE USING DEEP LEARNING METHOD
+SO 2019 IEEE INTERNATIONAL GEOSCIENCE AND REMOTE SENSING SYMPOSIUM (IGARSS
+   2019)
+SE IEEE International Symposium on Geoscience and Remote Sensing IGARSS
+CT IEEE International Geoscience and Remote Sensing Symposium (IGARSS)
+CY JUL 28-AUG 02, 2019
+CL Yokohama, JAPAN
+SP Inst Elect & Elect Engineers, Inst Elect & Elect Engineers, Geoscience & Remote Sensing Soc
+RI Sheridan, John/A-7078-2010; Chen, Shanshan/ACO-4807-2022
+OI Chen, Shanshan/0000-0001-9723-2403
+SN 2153-6996
+BN 978-1-5386-9154-0
+PY 2019
+BP 7407
+EP 7410
+DI 10.1109/igarss.2019.8898874
+UT WOS:000519270606224
+ER
+
+PT J
+AU Gould, NP
+   Andelt, WF
+AF Gould, Nicholas P.
+   Andelt, William F.
+TI Effect of anthropogenically developed areas on spatial distribution of
+   island foxes
+SO JOURNAL OF MAMMALOGY
+SN 0022-2372
+EI 1545-1542
+PD JUN
+PY 2013
+VL 94
+IS 3
+BP 662
+EP 671
+DI 10.1644/12-MAMM-A-027.1
+UT WOS:000320479100014
+ER
+
+PT J
+AU de Bellefon, MP
+   Combes, PP
+   Duranton, G
+   Gobillon, L
+   Gorin, C
+AF de Bellefon, Marie-Pierre
+   Combes, Pierre-Philippe
+   Duranton, Gilles
+   Gobillon, Laurent
+   Gorin, Clement
+TI Delineating urban areas using building density
+SO JOURNAL OF URBAN ECONOMICS
+RI Combes, Pierre-Philippe/Q-7020-2017
+OI Joubert (de Bellefon), Marie-Pierre/0009-0006-8696-2690
+SN 0094-1190
+EI 1095-9068
+PD SEP
+PY 2021
+VL 125
+SI SI
+AR 103226
+DI 10.1016/j.jue.2019.103226
+EA OCT 2021
+UT WOS:000755084300005
+ER
+
+PT C
+AU Endri, J
+   Handayani, AS
+   Jannah, R
+   Al-Kausar, J
+AF Endri, Jon
+   Handayani, Ade Silvia
+   Jannah, Raudatul
+   Al-Kausar, Jefri
+GP Polytechn Sriwijaya, Palembang S Sumatera Indonesia
+TI Wajanbolic reflection antenna for 4g service in urban and sub urban
+   areas
+SO 2ND FORUM IN RESEARCH, SCIENCE, AND TECHNOLOGY
+SE Journal of Physics Conference Series
+CT 2nd Forum in Research, Science, and Technology (FIRST)
+CY OCT 30-31, 2018
+CL Palembang, INDONESIA
+SP State Polytechn Sriwijaya, Univ Cologne, Univ Sunderland, Int Islam Univ Malaysia, Politeknik Seberang Perai Malaysia
+RI Handayani, Ade/AEM-7126-2022; jannah, Raudatul/HOF-8665-2023
+OI handayani, ade silvia/0000-0002-4476-426X
+SN 1742-6588
+EI 1742-6596
+PY 2019
+VL 1167
+AR 012020
+DI 10.1088/1742-6596/1167/1/012020
+UT WOS:000471144100020
+ER
+
+PT J
+AU Agca, M
+   Kaya, E
+   Daloglu, AI
+   Yücel, A
+   Yalçinkaya, S
+AF Agca, Muge
+   Kaya, Efdal
+   Daloglu, Ali Ihsan
+   Yucel, Aslihan
+   Yalcinkaya, Sercan
+TI Obtaining tree height information in urban areas from ICESat-2/ATLAS and
+   UAV data
+SO GEOMATIK
+RI ; Kaya, Efdal/JZD-1763-2024
+OI KAYA, EFDAL/0000-0002-5553-0143; 
+EI 2564-6761
+PY 2024
+VL 9
+IS 1
+BP 86
+EP 96
+DI 10.29128/geomatik.1384320
+UT WOS:001168168600005
+ER
+
+PT J
+AU Rahayuningsih, N
+   Sinuraya, RK
+   Fatinah, Y
+   Diantini, A
+   Suwantika, AA
+AF Rahayuningsih, Nur
+   Sinuraya, Rano K.
+   Fatinah, Yasmin
+   Diantini, Ajeng
+   Suwantika, Auliya A.
+TI Impact of COVID-19 Pandemic on Routine Childhood Immunization Programs
+   in Indonesia Taking Rural and Urban Area into Account
+SO PATIENT PREFERENCE AND ADHERENCE
+RI Suwantika, Auliya/ABF-5700-2020; Rahayuningsih, Nur/OMM-9629-2025;
+   Sinuraya, Rano/AAE-3080-2021
+OI Suwantika, Auliya Abdurrohim/0000-0001-8671-2065; Sinuraya,
+   Rano/0000-0001-6109-0482
+SN 1177-889X
+PY 2024
+VL 18
+BP 667
+EP 675
+DI 10.2147/PPA.S448901
+UT WOS:001185336100001
+PM 38505189
+ER
+
+PT J
+AU Ramírez-Restrepo, L
+   Koi, S
+   MacGregor-Fors, I
+AF Ramirez-Restrepo, Lorena
+   Koi, Sandy
+   MacGregor-Fors, Ian
+TI Tales of urban conservation: Eumaeus butterflies and their
+   threatened cycad hostplants
+SO URBAN ECOSYSTEMS
+RI MacGregor-Fors, Ian/P-1455-2014; Koi, Sandy/W-7765-2019
+OI MacGregor-Fors, Ian/0000-0003-3198-7322; 
+SN 1083-8155
+EI 1573-1642
+PD APR
+PY 2017
+VL 20
+IS 2
+BP 375
+EP 378
+DI 10.1007/s11252-016-0599-0
+UT WOS:000399011500010
+ER
+
+EF
