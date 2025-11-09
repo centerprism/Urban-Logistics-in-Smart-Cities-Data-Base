@@ -1,0 +1,1344 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Edel, F
+   Pulkus, C
+   Kim, S
+   Erhardt, J
+   Kuijpens, S
+AF Edel, Fabian
+   Pulkus, Corinna
+   Kim, Sarah
+   Erhardt, Juergen
+   Kuijpens, Sven
+TI Investigation and Development of Textile Lightweight Bodies for Urban
+   Logistic Vehicles
+SO WORLD ELECTRIC VEHICLE JOURNAL
+LA English
+DT Article
+DE textile; lightweight; urban logistic vehicles; freight transport;
+   materials
+AB The urban logistic sector is struggling with the following two problems: a particularly high level of traffic and air pollution. For those reasons, small electric vehicles are the perfect technical solution to cope sustainably with the increasing parcel volume in urban areas. To compensate the weight disadvantage of electric drive, a textile lightweight solution for the body of logistics vehicles is examined in this study. Therefore, various textiles and mounting solutions are examined and developed, as well as tested by multiple testing procedures. The result of this work is an ideal combination of a textile and suitable mounting method for a textile lightweight body for last-mile logistic vehicles.
+C1 [Edel, Fabian] Fraunhofer Inst Ind Engn IAO, D-70569 Stuttgart, Germany.
+   [Pulkus, Corinna; Kim, Sarah; Kuijpens, Sven] German Inst Text & Fiber Res Denkendorf DITF, D-73770 Denkendorf, Germany.
+   [Erhardt, Juergen] Erhardt GmbH, D-70499 Stuttgart, Germany.
+C3 Fraunhofer Gesellschaft
+RP Edel, F (corresponding author), Fraunhofer Inst Ind Engn IAO, D-70569 Stuttgart, Germany.
+EM fabian.edel@iao.fraunhofer.de
+OI Edel, Fabian/0009-0005-8646-8767; Kim, Sarah/0009-0005-7141-8257
+FU Ministry of Economy, Labour and Housing Baden-Wuerttemberg, Germany
+   [3-4332.62]
+FX This research was funded by the Ministry of Economy, Labour and Housing
+   Baden-Wuerttemberg, Germany, grant number 3-4332.62.
+CR [Anonymous], 2014, 121951202101 DIN EN
+   bensch-planen, ANHANGERPLANEN BENSC
+   BMW Group PressClub, DES COLL N FAC IM NE
+   Braun F., 2022, P INT C US US US EXP
+   Bubna P., 2016, SAE TECHNICAL PAPER
+   Bundesministerium der Justiz, 2013, STRASSENVERKEHRS ORD
+   Del Pero F, 2017, J CLEAN PROD, V154, P566, DOI 10.1016/j.jclepro.2017.04.013
+   Delogu M, 2017, MATER TODAY COMMUN, V13, P192, DOI 10.1016/j.mtcomm.2017.09.012
+   Deutsche Post DHL Group, PAK DHL PRIC PROD
+   Edel F., 2019, P 32 EL VEH S EVS32
+   European Parliament, 2014, DIR 2014 47 EU TECHN
+   European Union, 2010, REGULATION NO 11 UNI
+   European Union, 2007, 26 UNECE
+   Extremtextil e.K, DOUBL RIPST KIT POLY
+   Giese S, 2021, PRODUKTKATALOG FRIED
+   Idw/Hochschule Bremerhaven, ALARMSYSTEM PLANENAU
+   Kerl A., 2018, MANAGEMENT MULTICROS
+   Klauenberg J., 2020, VERANDERUNG GEWERBLI
+   Lanitz-Aviation, PRODUKTE LANITZ AVIA
+   Lesemann M., 2014, ATZ AUTOMOB, V116, P34, DOI [10.1007/s35148-014-0471-6, DOI 10.1007/S35148-014-0471-6]
+   Mehler Texnologies, SCRIM COMP MEHL TECH
+   Mitschke M., 2014, Dynamik der Kraftfahrzeuge
+   planenlager, SCAR B1 LKW PLANE PV
+   Pöhler D, 2016, Ruperto Carola, P50, DOI [10.17885/heiup.ruca.2016.9.23610, 10.17885/heiup.ruca.2016.9.23610, DOI 10.17885/HEIUP.RUCA.2016.9.23610]
+   Pulkus C., 2020, THESIS TEXTIL DESIGN
+   Quak H, 2016, TRANSP RES PROC, V12, P157, DOI 10.1016/j.trpro.2016.02.055
+   Suijker Axel, TEXTIL STRATOS CORDU
+   The North Face, FUT TECHN
+   Winkler R, 2019, INNENSTADTLOGISTIK L
+   Wohlgemut L., 2013, FEINSTAUB STADTEN WE
+   Zhou WB, 2023, RENEW SUST ENERG REV, V173, DOI 10.1016/j.rser.2022.113074
+NR 31
+TC 0
+Z9 0
+U1 0
+U2 5
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2032-6653
+J9 WORLD ELECTR VEHIC J
+JI World Electr. Vehicle J.
+PD MAY 4
+PY 2023
+VL 14
+IS 5
+AR 121
+DI 10.3390/wevj14050121
+PG 15
+WC Engineering, Electrical & Electronic; Transportation Science &
+   Technology
+WE Emerging Sources Citation Index (ESCI)
+SC Engineering; Transportation
+GA H8EA3
+UT WOS:000998217100001
+OA Green Submitted, gold
+DA 2025-10-26
+ER
+
+PT C
+AU Hörl, B
+   Dörr, H
+   Wanjek, M
+   Romstorfer, A
+AF Hoerl, Bardo
+   Doerr, Heinz
+   Wanjek, Monika
+   Romstorfer, Andreas
+BE Rafalski, L
+   Zofka, A
+TI METRO. FREIGHT. 2020-strategies for strengthening rail infrastructure
+   for freight transport in urban regions
+SO TRANSPORT RESEARCH ARENA TRA2016
+SE Transportation Research Procedia
+LA English
+DT Proceedings Paper
+CT 6th Transport Research Arena (TRA)
+CY APR 18-21, 2016
+CL Warsaw, POLAND
+SP Minist Infrastructure & Construct Poland, Road & Bridge Res Inst
+DE Urban logistics; rail freight; agglomeration; city logistic; rail
+   infrastructure
+AB In most European congested urban areas the rail tracks of the 19th and 20th century serving locations of industry and goods stations were removed, transformed for public passenger transport, closed down or used for other purposes. The main reasons might be the de-industrialisation of the inner cities and the centralisation of the supply-sector (wholesale markets, shopping centres). Simultaneous the urban areas got an excellent road network on the surface and an efficient public transport system in the underground or on dedicated tracks. Nevertheless the amount of goods delivered to urban areas increased due to material prosperity. In this context "METRO. FREIGHT. 2020" analysed the possibilities of a reinforced utilisation of railway infrastructure for freight transport on the first and the last miles within the urban regions in Austria as exemplified in case studies for the metropolitan Region of Vienna, the agglomerations of Graz and Linz and for the urbanised Rhine-Valley in Vorarlberg. In this context the focus point of consideration was the interface of transport and urban development, to a lesser extent the theoretical approach behind. As a fundamental milestone a cadastre of existing or recoverable sidings or other rail shipping points has been surveyed. They were evaluated in respect of serviceability concerning tracking freight trains in the rail network and extensibility in the service area which was complemented with propositions for further developing.
+   The recommendations focus measures intending technically and economically operable access points to rail net on one hand and potentially appropriate access points for the future. But, to reach this goal more strengthened integration of commercial location policy and of shippers' transport demands with a coordinated land use planning and an infrastructure development policy is required. Finally the methodical approach elaborated comprises following components to push more rail freight shipping:
+   Traffic zoning is a hierarchical spatial approach subdividing an urban region in sectors, zones and 'agglomerates' as spheres of activity for political and private actors involved in freight traffic generation and infrastructure affaires.
+   Surveying a multimodal topology of infrastructure network which integrates all transport modes in its layout of freight infrastructure propped up on a public platform of a multimodal network graph in future.
+   Characterizing an 'agglomerate' typology of shipping sites with affinity to rail which describes the typical initial position and development trends of the freight transport inducing traffic zones.
+   Shaping spatial structures which consist of super structures of shipping industrial sites as traffic generators, the infrastructure with its capacity for freight movements and the 'metastructure'as external affected settlements and land uses are prime targets and intervention objects, the coordinated measures have to be allocated to.
+   The railway operators are called on to offer more flexible train and operation forms tailored to the logistics of shippers if the rail infrastructure within the serving area from the consolidation node to the sidings enables it. In the end three scenarios have been identified, namely a scenario of ultimate displacement of rail freight service in towns, a retarding scenario which brakes the retreat of rail connected with a change of paradigm in transport and traffic planning leading into an offensive scenario of 'clean freight mobility' to revitalize and extend rail freight operations into areas of high consumption. (C) 2016 The Authors. Published by Elsevier B.V.
+C1 [Hoerl, Bardo; Wanjek, Monika] Vienna Univ Technol, Ctr Transportat Syst Planning, Erzherzog Johann Pl 1-280-5, A-1040 Vienna, Austria.
+   [Doerr, Heinz; Romstorfer, Andreas] Arp Planning Consulting Res, Alser Str 34-33, A-1090 Vienna, Austria.
+C3 Technische Universitat Wien
+RP Hörl, B (corresponding author), Vienna Univ Technol, Ctr Transportat Syst Planning, Erzherzog Johann Pl 1-280-5, A-1040 Vienna, Austria.
+EM bardo.hoerl@tuwien.ac.at
+CR Dorr H., 2011, IVS SCHRIFTEN, V35
+   Hofler L., 2008, GESAMTVERKEHRSKONZEP
+   Horl B., 2010, SCHRIFTENREIHE WIRTS, P349
+   Horl B., 2011, METRO FREIGHT 2020 T
+   Horl B., 2013, JB RAUMPLANUNG, V1, P113
+NR 5
+TC 13
+Z9 16
+U1 4
+U2 48
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 2352-1465
+J9 TRANSP RES PROC
+PY 2016
+VL 14
+BP 2776
+EP 2784
+DI 10.1016/j.trpro.2016.05.478
+PG 9
+WC Transportation; Transportation Science & Technology
+WE Conference Proceedings Citation Index - Science (CPCI-S); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Transportation
+GA BF6LN
+UT WOS:000383251002091
+OA gold
+DA 2025-10-26
+ER
+
+PT C
+AU Joubert, JW
+AF Joubert, Johan W.
+BE Taniguchi, E
+   Thompson, RG
+TI Evaluating the efficiency of urban activity chains
+SO NINTH INTERNATIONAL CONFERENCE ON CITY LOGISTICS
+SE Transportation Research Procedia
+LA English
+DT Proceedings Paper
+CT 9th International Conference on City Logistics
+CY JUN 17-19, 2015
+CL Tenerife, SPAIN
+DE Activity chains; efficiency; duplicate activities
+AB Many city logistic initiatives are large in scale and aim to improve the efficiency and overall state of goods movement within our urban areas. Unfortunately the implementation and day-to-day operations of urban goods movement is less than optimal. Commercial vehicles have many activities in their activity chains, from when they start at a terminal depot, until they return. Some vehicles have as many as hundreds of activities in a single chain. Unfortunately many consecutive activities in a vehicle's chain occur at the same facility, suggesting that vehicles have to maneuver and relocate a few times before their true, economically useful function is completed. In this study we consider such duplicate activities and perform temporal and spatial analyses to better understand the nature of these productivity sinks. (C) 2016 The Authors. Published by Elsevier B.V.
+C1 [Joubert, Johan W.] Univ Pretoria, Ctr Transport Dev, ZA-0002 Pretoria, South Africa.
+C3 University of Pretoria
+RP Joubert, JW (corresponding author), Univ Pretoria, Ctr Transport Dev, ZA-0002 Pretoria, South Africa.
+EM johan.joubert@up.ac.za
+RI Joubert, Johan/IVU-9995-2023
+OI Joubert, Johan W/0000-0001-6631-1803
+CR Arentze T.A., 2005, ALBATROSS VERSION 2
+   Bhat C., 2008, CEMDAP USERS MANUAL
+   Clauset A, 2009, SIAM REV, V51, P661, DOI 10.1137/070710111
+   Gillespie ColinS., 2014, Fitting heavy tailed distributions: the poweRlaw package
+   Greaves SP, 2008, TRANSPORT RES REC, P158, DOI 10.3141/2049-19
+   Hensher D, 2007, TRANSPORT RES B-METH, V41, P921, DOI 10.1016/j.trb.2007.04.002
+   Joubert JW, 2011, J TRANSP GEOGR, V19, P115, DOI 10.1016/j.jtrangeo.2009.11.005
+   Joubert JW, 2013, TRANSPORTATION, V40, P729, DOI 10.1007/s11116-012-9439-0
+   Sharman BW, 2013, TRANSPORT RES E-LOG, V56, P94, DOI 10.1016/j.tre.2013.06.002
+   Sharman BW, 2011, TRANSPORT RES REC, P83, DOI 10.3141/2246-11
+   Sturm K., 2014, TRANSPORT RES REC, V2410, P31
+   Taniguchi E, 2015, CITY LOGISTICS: MAPPING THE FUTURE, P1
+   Vovsha P, 2006, TRANSPORT RES REC, P34, DOI 10.3141/1981-07
+NR 13
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 2352-1465
+J9 TRANSP RES PROC
+PY 2016
+VL 12
+BP 132
+EP 141
+DI 10.1016/j.trpro.2016.02.053
+PG 10
+WC Transportation; Transportation Science & Technology
+WE Conference Proceedings Citation Index - Science (CPCI-S); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Transportation
+GA BE9HW
+UT WOS:000377574100011
+OA gold
+DA 2025-10-26
+ER
+
+PT C
+AU Lindholm, M
+AF Lindholm, Maria
+BE Taniguchi, E
+   Thompson, RG
+TI How local authority decision makers address freight transport in the
+   urban area
+SO SEVENTH INTERNATIONAL CONFERENCE ON CITY LOGISTICS
+SE Procedia Social and Behavioral Sciences
+LA English
+DT Proceedings Paper
+CT 7th International Conference on City Logistics
+CY JUN 07-09, 2011
+CL Mallorca, SPAIN
+DE Decision makers; local authority; planning model; urban freight
+   transport
+AB Freight transport in urban areas is not as efficient as it could be. Since freight transport has a large proportion of emissions from traffic, this is an area that needs to be addressed by all actors involved. Freight transport has in recent years gained a more important role in urban planning in large cities in Europe. However, the medium and small cities also need to address the problem in the decision making process. The purpose of this paper is to evaluate how Swedish small and medium sized cities deal with urban freight transport and to frame the problem of urban freight transport planning from a local authority perspective. Interviews with and questionnaires to decision makers are the basis for the evaluation of the possibilities for countering the challenge. City logistic schemes implemented in a large city are not always suitable for a smaller city and maybe not even for another city of the same size. The contribution of this paper is two-fold. A process planning model is presented based on the results, which is a practical tool for local authority decision makers in their planning process, but it is also a theoretical contribution, valuable for future research in urban freight transport planning studies. (C) 2012 Published by Elsevier Ltd. Selection and/or peer-review under responsibility of the 7th International Conference on City Logistics
+C1 [Lindholm, Maria] Chalmers Univ Technol, S-41296 Gothenburg, Sweden.
+C3 Chalmers University of Technology
+EM maria.lindholm@chalmers.se
+CR Allen J., 2007, GOOD PRACTICE GUIDE
+   Ambrosini C, 2004, TRANSPORT REV, V24, P57, DOI 10.1080/0144164032000122343
+   Ambrosini C, 2010, PROCD SOC BEHV, V2, P6013, DOI 10.1016/j.sbspro.2010.04.015
+   Anderson S., 2000, ISTP 4 INT C TRANSP
+   [Anonymous], 2009, Communication from the Commission Executive Summary of the Pharmaceutical Sector Inquiry Report
+   [Anonymous], 2006, URB FREIGHT TRANSP L
+   [Anonymous], 2008, WORLD URB PROSP 2007
+   Behrends S, 2008, TRANSPORT PLAN TECHN, V31, P693, DOI 10.1080/03081060802493247
+   BENJELLOUN A., 2009, Toward a taxonomy of city logistics projects
+   Brebbia C. A., 2005, SUSTAINABLE DEV PLAN, VI
+   Browne M., 2005, URBAN FREIGHT CONSOL
+   Browne M, 1999, 8 WORLD C TRANSP RES
+   BROWNE M., 2007, International Journal of Logistics: Research and Applications, V10, P205, DOI DOI 10.1080/13675560701467052
+   Crainic TG, 2009, TRANSPORT SCI, V43, P432, DOI 10.1287/trsc.1090.0279
+   ERIKSSON J., 2006, Implementering av SAMLIC - Forslaget och processen
+   European Commission, 2009, ACT PLAN URB MOB
+   Filippi F, 2010, PROCD SOC BEHV, V2, P6332, DOI 10.1016/j.sbspro.2010.04.042
+   Franzen S, 2007, UTVARDERING PILOTPRO
+   Lindholm M, 2010, 12 WORLD C TRANSP RE
+   Lindholm M, 2011, CATEGORISATION UNPUB
+   Muñuzuri J, 2005, CITIES, V22, P15, DOI 10.1016/j.cities.2004.10.003
+   Muñuzuri J, 2009, J URBAN PLAN DEV, V135, P91, DOI 10.1061/(ASCE)UP.1943-5444.0000011
+   OECD, 2003, DEL GOODS 21 CENT CH
+   Quak HJ, 2009, TRANSPORT SCI, V43, P211, DOI 10.1287/trsc.1080.0235
+   Scb, 2006, TAT 2005
+   Stantchev D., 2006, Urban freight transport and logistics: An overview of the European research and policy
+   Swedish Association of Local Authorities and Regions, 2011, KOLADA KOMM OCH LAND
+   Tennoy A, 2010, TRANSPORT POLICY, V17, P216, DOI 10.1016/j.tranpol.2010.01.011
+   Timms P, 2011, TRANSPORT POLICY, V18, P513, DOI 10.1016/j.tranpol.2010.10.009
+   ZUNDER T., 2004, European Transport/Trasporti Europei, V28, P77
+NR 30
+TC 49
+Z9 61
+U1 1
+U2 11
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1877-0428
+J9 PROCD SOC BEHV
+PY 2012
+VL 39
+BP 134
+EP 145
+DI 10.1016/j.sbspro.2012.03.096
+PG 12
+WC Management; Transportation
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Business & Economics; Transportation
+GA BDN88
+UT WOS:000314104200010
+OA gold
+DA 2025-10-26
+ER
+
+PT C
+AU Giret, A
+   Julián, V
+   Botti, V
+AF Giret, Adriana
+   Julian, Vicente
+   Botti, Vicente
+BE Borangiu, T
+   Trentesaux, D
+   Leitao, P
+   Boggino, AG
+   Botti, V
+TI An Intelligent Platform for Supporting Optimized Collaborative Urban
+   Logistics
+SO SERVICE ORIENTED, HOLONIC AND MULTI-AGENT MANUFACTURING SYSTEMS FOR
+   INDUSTRY OF THE FUTURE
+SE Studies in Computational Intelligence
+LA English
+DT Proceedings Paper
+CT 9th International Workshop on Service Oriented, Holonic and Multi-Agent
+   Manufacturing Systems for the Industry of the Future (SOHOMA)
+CY OCT 03-04, 2019
+CL Valencia, SPAIN
+SP Univ Politecnica Valencia, Univ Politehnica Bucharest, CIMR Res Ctr Comp Integrated Mfg & Robot, Polytechn Univ Hauts France, LAMIH Lab Ind & Human Automat Control Mech Engn & Com Sci, Polytechn Inst Braganca, CeDRI Res Ctr Digitalizat & Intelligent Robot
+DE Sustainable and collaborative urban logistics; Optimization; Last mile
+   delivery
+ID SUPPLY CHAIN MANAGEMENT
+AB Optimized urban logistics is an important issue for rapidly growing cities worldwide. Many criteria can be optimized in order to improve the performance of urban logistics. Economic and time dependent criteria are central but not the only ones; lately, sustainable criteria are becoming key and urgent due to new regulations and environmental concern of governments and the society. In this work we review the state of the art of intelligent developments and techniques that might aid to build smart and optimized urban logistic applications. Moreover, we propose a prototype platform conceived as a supporting and facilitating layer for the growing business of last mile delivery (LMD) companies that operate in cities in an isolated way. Our vision is to provide a cooperative intelligent platform that provides coordination and collaboration services for the LMD companies of urban areas.
+C1 [Giret, Adriana; Julian, Vicente; Botti, Vicente] Univ Politecn Valencia, Valencia, Spain.
+C3 Universitat Politecnica de Valencia
+RP Giret, A (corresponding author), Univ Politecn Valencia, Valencia, Spain.
+EM agiret@dsic.upv.es; vinglada@dsic.upv.es; vbotti@dsic.upv.es
+RI Botti, Vicente/K-4647-2013; Julián, Vicente/K-6029-2013; Giret,
+   Adriana/G-8660-2015; Julian, Vicente/K-6029-2013
+OI Julian, Vicente/0000-0002-2743-6037
+FU Spanish government [TIN2015-65515-C4-1-R]
+FX This research is supported by research project TIN2015-65515-C4-1-R from
+   the Spanish government.
+CR Alonso-Mora J, 2017, P NATL ACAD SCI USA, V114, P462, DOI 10.1073/pnas.1611675114
+   [Anonymous], 2019, MarketLine Company Profile, P1
+   Bianchi Leonora, 2009, Natural Computing, V8, P239, DOI 10.1007/s11047-008-9098-4
+   Bruning M., 2011, 2011 IEEE Forum on Integrated and Sustainable Transportation Systems (FISTS 2011), P136, DOI 10.1109/FISTS.2011.5973630
+   Chatterjee R, 2016, THESIS, P1
+   Gentile G, 2016, MODELING PUBLIC TRAN
+   Griffis Stanley E., 2007, Journal of Business Logistics, V28, P35, DOI 10.1002/j.2158-1592.2007.tb00057.x
+   Gunasekaran A, 2007, INT J PROD RES, V45, P2819, DOI 10.1080/00207540600806513
+   Macharis C, 2011, NECTAR SER TRANSP, P1
+   Morana J, 2015, MANAG RES REV, V38, P1068, DOI 10.1108/MRR-11-2014-0260
+   Neirotti P, 2014, CITIES, V38, P25, DOI 10.1016/j.cities.2013.12.010
+   Pagell M, 2009, J SUPPLY CHAIN MANAG, V45, P37, DOI 10.1111/j.1745-493X.2009.03162.x
+   Sabater J, 2005, ARTIF INTELL REV, V24, P33, DOI 10.1007/s10462-004-0041-5
+   Semet F, 2014, ECOPRODUCTION, P1, DOI 10.1007/978-3-642-31788-0
+   Skiver RL, 2017, The Global Journal of Business Research, V11, P67
+   Xiao ZP, 2017, TRANSP RES PROC, V25, P985, DOI 10.1016/j.trpro.2017.05.473
+NR 16
+TC 1
+Z9 2
+U1 0
+U2 9
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 1860-949X
+EI 1860-9503
+BN 978-3-030-27477-1; 978-3-030-27476-4
+J9 STUD COMPUT INTELL
+PY 2020
+VL 853
+BP 3
+EP 14
+DI 10.1007/978-3-030-27477-1_1
+PG 12
+WC Automation & Control Systems; Engineering, Manufacturing
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Automation & Control Systems; Engineering
+GA BQ8FC
+UT WOS:000620144800001
+OA Green Submitted
+DA 2025-10-26
+ER
+
+PT C
+AU Ndhaief, N
+   Bistorin, O
+   Rezg, N
+AF Ndhaief, Nadia
+   Bistorin, Olivier
+   Rezg, Nidhal
+TI A modelling approach for city locating logistic platforms based on
+   combined forward and reverse flows
+SO IFAC PAPERSONLINE
+LA English
+DT Proceedings Paper
+CT 20th World Congress of the International-Federation-of-Automatic-Control
+   (IFAC)
+CY JUL 09-14, 2017
+CL Toulouse, FRANCE
+SP Int Federat Automat Control, Continental Automot, Occitanie Reg, Toulouse Metropole, CNES, Univ Toulouse III, Paul Sabatier, Inria, CNRS, OPTITRACK, MDPI, ISAE Supaero, iCODE, EECI, Int Journal Automat & Comp, IEEE CAA Journal Automatica Sinica, Moveo
+DE urban logistics; logistics platform; reverse logistics; optimization and
+   sustainable development
+ID URBAN; SUSTAINABILITY; DELIVERY; CENTERS; NETWORK
+AB Logistics platforms and reverse logistics are the most used solutions addressing daily problems in urban areas such as noise, pollution and cost. Their main goal is to ensure sustainable development in modern cities. The paper proposes an approach based on forward and reverse flows in urban logistic. To that end, we present a location-allocation of logistics platforms in a reverse logistics system. We, then, locate allocation and evaluate their effect on logistic platforms. In doing so, we present a mathematical model of the city logistics platform to specify location-allocation problem. Our model considers both flows: urban freight and reverse logistics. Subsequently, we improve city logistics platform's financial situation by reducing operating costs. Finally, we use a numerical algorithm for optimization and illustration purposes. (C) 2017, IFAC (International Federation of Automatic Control) Hosting by Elsevier Ltd. All rights reserved.
+C1 [Ndhaief, Nadia; Rezg, Nidhal] Univ Lorraine, LGIPM, F-57000 Metz, France.
+   [Bistorin, Olivier] ICN Business Sch, LGIPM, 13 Rue Michel Ney, F-54000 Nancy, France.
+C3 Universite de Lorraine; Universite de Lorraine
+RP Ndhaief, N (corresponding author), Univ Lorraine, LGIPM, F-57000 Metz, France.
+OI BISTORIN, Olivier/0000-0001-7351-9039
+CR Alumur S, 2008, EUR J OPER RES, V190, P1, DOI 10.1016/j.ejor.2007.06.008
+   [Anonymous], 2011, NETWORK DISCRETE LOC
+   Barros AI, 1998, EUR J OPER RES, V110, P199, DOI 10.1016/S0377-2217(98)00093-9
+   Behrends S, 2016, TRANSP RES PROC, V12, P278, DOI 10.1016/j.trpro.2016.02.065
+   BloemhofRuwaard JM, 1996, EUR J OPER RES, V88, P490, DOI 10.1016/0377-2217(94)00211-8
+   Crainic TG, 2009, TRANSPORT SCI, V43, P432, DOI 10.1287/trsc.1090.0279
+   de Souza F. M., 2007, POMS 18 ANN C 4 7 MA
+   Farahani RZ, 2013, COMPUT IND ENG, V64, P1096, DOI 10.1016/j.cie.2013.01.012
+   Gevaers R., 2009, EUR TRANSP C
+   Guyon O, 2012, PROCD SOC BEHV, V39, P360, DOI 10.1016/j.sbspro.2012.03.114
+   Jayaraman V, 1999, J OPER RES SOC, V50, P497, DOI 10.2307/3009998
+   Klose A, 2005, EUR J OPER RES, V162, P4, DOI 10.1016/j.ejor.2003.10.031
+   Lee H.L., 2014, COMMUNICATION   0602
+   LU Z., 2001, ACT 4 C INT GEN IND, P1141
+   Lu ZQ, 2007, COMPUT OPER RES, V34, P299, DOI 10.1016/j.cor.2005.03.002
+   Moutaoukil A, 2015, IFAC PAPERSONLINE, V48, P2368, DOI 10.1016/j.ifacol.2015.06.442
+   Ndhaief N, 2015, 2015 INTERNATIONAL CONFERENCE ON INDUSTRIAL ENGINEERING AND SYSTEMS MANAGEMENT (IESM), P568, DOI 10.1109/IESM.2015.7380215
+   OKELLY ME, 1986, TRANSPORT SCI, V20, P92, DOI 10.1287/trsc.20.2.92
+   Rao CJ, 2015, TRANSPORT RES D-TR E, V36, P29, DOI 10.1016/j.trd.2015.02.008
+   Schliwa G, 2015, RES TRANSP BUS MANAG, V15, P50, DOI 10.1016/j.rtbm.2015.02.001
+   Taniguchi E., 2001, City logistics, DOI [10.1108/9780585473840-007, DOI 10.1108/9780585473840-007]
+   Taniguchi E., 2012, CONCEPT BEST PRACTIC
+   Tibben-Lembke R.S., 1998, Going backwards: reverse logistics trends and practices
+   van Duin JHR, 2010, PROCD SOC BEHV, V2, P6177, DOI 10.1016/j.sbspro.2010.04.029
+   WITT C. E., 1995, MAT HANDLING ENG, V50
+NR 25
+TC 7
+Z9 11
+U1 0
+U2 29
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2405-8963
+J9 IFAC PAPERSONLINE
+JI IFAC PAPERSONLINE
+PY 2017
+VL 50
+IS 1
+BP 11701
+EP 11706
+DI 10.1016/j.ifacol.2017.08.1691
+PG 6
+WC Automation & Control Systems
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Automation & Control Systems
+GA FU6LW
+UT WOS:000423965100435
+OA gold
+DA 2025-10-26
+ER
+
+PT J
+AU Labarthe, O
+   Ahmadi, G
+   Klibi, W
+   Deschamps, JC
+   Montreuil, B
+AF Labarthe, Olivier
+   Ahmadi, Ghazaleh
+   Klibi, Walid
+   Deschamps, Jean- Christophe
+   Montreuil, Benoit
+TI A sustainable on-demand urban delivery service enabled by
+   synchromodality and synergy in passenger and freight mobility
+SO TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES
+LA English
+DT Article
+DE Hyperconnected city logistics; Interconnected urban transportation;
+   Physical internet; Freight transshipment; Sustainable city
+ID CITY LOGISTICS; PHYSICAL INTERNET; TIME WINDOWS; TRANSPORT; CHALLENGES;
+   VEHICLE; SYSTEM; PICKUP; FRAMEWORK; TRANSIT
+AB This paper investigates the opportunity to plan for a novel on-demand freight delivery service in urban areas with tight service and sustainability requirements. This contribution first attempts to focus on the feasibility of connecting people and freight mobility through the joint usage of transportation options. It builds on the hyperconnectivity principles enabled by the Physical Internet (PI) manifesto for city logistics, referred to as HCL (Hyperconnected City Logistics). To this end, this paper proposes a model-based decision support approach that seeks to produce effective delivery solutions for an on-demand multimodal transshipment problem. The approach considers multiple mobility options such as on-demand urban delivery services, cargo bikes, tramways, and buses to transship goods from one urban logistic hub to another. This novel shortterm response planning problem complements the well-known day-before planning problem. The objective function aims to minimize the impact of freight moves in the time and space of urban transport networks. The proposed solution aims to increase the sustainability of cities by reducing congestion levels, the impact of logistics moves, as well as carbon emissions in urban areas. An illustrative case is provided to demonstrate how the novel multi -mode transportation system could operate and to provide an evaluation of the economic and sustainability benefits of such a system in an urban context. For a hyperconnected network, the impact of freight movements on the time and space of urban transport networks can be reduced by 91%. The results demonstrate the potential of urban synchromodality in improving economic efficiency, service capability, and sustainability.
+C1 [Labarthe, Olivier; Ahmadi, Ghazaleh; Klibi, Walid] Kedge Business Sch, Ctr Excellence Supply Chain Innovat & Transportat, Bordeaux, France.
+   [Deschamps, Jean- Christophe] Univ Bordeaux, IMS Lab, Bordeaux, France.
+   [Klibi, Walid; Montreuil, Benoit] Supply Chain & Logist Inst, Phys Internet Ctr, Atlanta, GA USA.
+   [Montreuil, Benoit] Georgia Inst Technol, H Milton Stewart Sch Ind & Syst Engn, Atlanta, GA USA.
+C3 Kedge Business School; Universite de Bordeaux; University System of
+   Georgia; Georgia Institute of Technology
+RP Labarthe, O (corresponding author), Kedge Business Sch, Ctr Excellence Supply Chain Innovat & Transportat, Bordeaux, France.
+EM olivier.labarthe@kedgebs.com
+RI Ahmadi, Goodarz/AAT-1417-2021
+OI Labarthe, Olivier/0000-0002-9623-2302
+CR Acero B, 2022, J SUPPLY CHAIN MANAG, V58, P51, DOI 10.1111/jscm.12269
+   Ambra T, 2021, J BUS LOGIST, V42, P167, DOI 10.1111/jbl.12237
+   Ambra T, 2019, INT J PROD RES, V57, P1606, DOI 10.1080/00207543.2018.1494392
+   Anand N, 2012, PROCD SOC BEHV, V39, P101, DOI 10.1016/j.sbspro.2012.03.094
+   [Anonymous], 2022, World Cities Report 2022: Envisaging the Future of Cities
+   Arvidsson N., 2016, Transport. Built Environment, V42, P523, DOI [10.2148/benv.42.4.523, DOI 10.2148/BENV.42.4.523]
+   Azcuy I, 2021, TRANSPORT RES E-LOG, V156, DOI 10.1016/j.tre.2021.102525
+   Ballot E, 2021, J BUS LOGIST, V42, P101, DOI 10.1111/jbl.12268
+   Basciftci B, 2022, TRANSPORT SCI, DOI 10.1287/trsc.2022.1184
+   Behiri W, 2018, TRANSPORT RES E-LOG, V115, P227, DOI 10.1016/j.tre.2018.05.002
+   Ben Mohamed I, 2023, ROUT INT HANDB, P208, DOI 10.4324/9781003241478-19
+   Ben Mohamed I, 2017, INT J PROD RES, V55, P2664, DOI 10.1080/00207543.2016.1267412
+   Bruzzone F, 2021, TRANSPORT POLICY, V100, P31, DOI 10.1016/j.tranpol.2020.10.009
+   Cavallaro F, 2022, RES TRANSP BUS MANAG, V43, DOI 10.1016/j.rtbm.2021.100718
+   CEREMA, 2017, L'enquete transport de marchandises en ville
+   Chen SH, 2022, IND MANAGE DATA SYST, V122, P1522, DOI 10.1108/IMDS-07-2021-0416
+   Chopra S, 2018, Transportation Research Procedia, V30, P4, DOI [10.1016/j.trpro.2018.09.002, 10.1016/j.trpro.2018.09.002, DOI 10.1016/J.TRPRO.2018.09.002]
+   Cleophas C, 2019, EUR J OPER RES, V273, P801, DOI 10.1016/j.ejor.2018.04.037
+   Cochrane K, 2017, INT J SUSTAIN TRANSP, V11, P120, DOI 10.1080/15568318.2016.1197349
+   Crainic T.G., 2023, Handbook on city logistics and urban freight, P190
+   Crainic T.G., 2008, TUTORIALS OPERATIONS, P181, DOI 10.1287/educ.1080.0047
+   Crainic TG, 2016, TRANSP RES PROC, V12, P383, DOI 10.1016/j.trpro.2016.02.074
+   Crainic TG, 2016, TRANSP RES PROC, V12, P26, DOI 10.1016/j.trpro.2016.02.023
+   Crainic TG, 2015, INFOR, V53, P49, DOI 10.3138/infor.53.2.49
+   Crainic TG, 2009, TRANSPORT SCI, V43, P432, DOI 10.1287/trsc.1090.0279
+   Crainic TG, 2004, TRANSPORT RES C-EMER, V12, P119, DOI 10.1016/j.trc.2004.07.002
+   Dampier A, 2015, URBAN RAIL TRANSIT, V1, P164, DOI 10.1007/s40864-015-0024-7
+   de Jong M, 2015, J CLEAN PROD, V109, P25, DOI 10.1016/j.jclepro.2015.02.004
+   De Langhe K, 2019, Journal of Shipping and Trade, V4, DOI [10.1186/s41072-019-0055-4, 10.1186/s41072-019-0055-4, DOI 10.1186/S41072-019-0055-4]
+   Dong CW, 2018, TRANSPORT RES D-TR E, V61, P42, DOI 10.1016/j.trd.2017.05.011
+   Elbert R, 2022, RES TRANSP BUS MANAG, V45, DOI 10.1016/j.rtbm.2021.100679
+   Fatnassi E, 2015, TRANSPORT RES B-METH, V81, P440, DOI 10.1016/j.trb.2015.07.016
+   Faugere L, 2022, EUR J OPER RES, V303, P650, DOI 10.1016/j.ejor.2022.02.051
+   Faugère L, 2020, SUSTAINABILITY-BASEL, V12, DOI 10.3390/su12177213
+   Faugère L, 2020, COMPUT IND ENG, V139, DOI 10.1016/j.cie.2018.11.054
+   Fransoo J C., 2017, Reaching 50 million nanostores: Retail distribution in emerging megacities
+   Gabriel Crainic T., 2023, Handbook on City Logistics and Urban Freight, P398, DOI [10.4337/9781800370173.00032, DOI 10.4337/9781800370173.00032]
+   Gernant E., 2021, White Paper
+   Ghilas V, 2016, INFOR, V54, P147, DOI 10.1080/03155986.2016.1166793
+   Gruber J, 2014, RES TRANSP BUS MANAG, V11, P53, DOI 10.1016/j.rtbm.2014.03.004
+   Hemmelmayr VC, 2012, COMPUT OPER RES, V39, P3215, DOI 10.1016/j.cor.2012.04.007
+   Hildermeier J, 2014, J ENVIRON POL PLAN, V16, P321, DOI 10.1080/1523908X.2014.880336
+   Hu WJ, 2019, SUSTAINABILITY-BASEL, V11, DOI 10.3390/su11102724
+   Jaller M., 2023, Handbook on City Logistics and Urban Freight, P382
+   Jaller M, 2020, Transportation Research Procedia, V46, P13, DOI [10.1016/j.trpro.2020.03.158, 10.1016/j.trpro.2020.03.158, DOI 10.1016/J.TRPRO.2020.03.158]
+   Janjevic M., 2014, WIT Transactions on The Built Environment, V138, P279, DOI [DOI 10.2495/UT140241, 10.2495/ut140241]
+   Janjevic M, 2014, PROCD SOC BEHV, V125, P284, DOI 10.1016/j.sbspro.2014.01.1474
+   Ji YX, 2020, J ADV TRANSPORT, V2020, DOI 10.1155/2020/6039032
+   Jinxing Shen, 2015, CICTP 2015. Efficient, Safe and Green Multimodal Transportation. 15th COTA International Conference of Transportation Professionals. Proceedings, P650, DOI 10.1061/9780784479292.060
+   Kaboudvand S., 2021, arXiv
+   Kellner Florian, 2016, Logistics Research, V9, DOI [10.1007/s12159-016-0148-5, 10.1007/s12159-016-0148-5]
+   Kim N, 2021, TRANSPORT RES E-LOG, V145, DOI 10.1016/j.tre.2020.102104
+   Krstic M, 2021, MATH PROBL ENG, V2021, DOI 10.1155/2021/5969788
+   Kumar AA, 2016, TRANSPORT RES B-METH, V91, P270, DOI 10.1016/j.trb.2016.05.015
+   Lemmens N, 2019, EUR TRANSP RES REV, V11, DOI 10.1186/s12544-019-0357-5
+   Montreuil Benoit, 2011, Logistics Research, V3, P71, DOI 10.1007/s12159-011-0045-x
+   Montreuil B, 2018, 15 IMHRC P SAV GEORG
+   Mourad A, 2019, TRANSPORT RES B-METH, V123, P323, DOI 10.1016/j.trb.2019.02.003
+   Ortegon-Sanchez A, 2016, RES TRANSP ECON, V59, P204, DOI 10.1016/j.retrec.2016.03.001
+   Ozturk O, 2018, EUR J OPER RES, V267, P1110, DOI 10.1016/j.ejor.2017.12.010
+   Pan SL, 2021, INT J PROD RES, V59, P2079, DOI 10.1080/00207543.2021.1893970
+   Pan SL, 2017, INT J PROD RES, V55, P2603, DOI 10.1080/00207543.2017.1302620
+   Perboli G, 2018, IET INTELL TRANSP SY, V12, P262, DOI 10.1049/iet-its.2017.0357
+   Pfoser S, 2022, INT J LOGIST MANAG, V33, P190, DOI 10.1108/IJLM-10-2020-0400
+   Nguyen PK, 2017, ANN OPER RES, V253, P899, DOI 10.1007/s10479-015-2001-7
+   Pimentel C, 2018, Transportation Research Procedia, V30, P80, DOI [10.1016/j.trpro.2018.09.010, 10.1016/j.trpro.2018.09.010, DOI 10.1016/J.TRPRO.2018.09.010]
+   Powell WB, 2019, EUR J OPER RES, V275, P795, DOI 10.1016/j.ejor.2018.07.014
+   Pternea M., 2018, P ANN M TRANSP RES B, P1
+   Quak H, 2016, TRANSP RES PROC, V12, P157, DOI 10.1016/j.trpro.2016.02.055
+   Ruesch M, 2016, TRANSP RES PROC, V12, P79, DOI 10.1016/j.trpro.2016.02.049
+   Sallez Y, 2016, COMPUT IND, V81, P96, DOI 10.1016/j.compind.2015.12.006
+   Savelsbergh M, 2016, TRANSPORT SCI, V50, P579, DOI 10.1287/trsc.2016.0675
+   Schliwa G, 2015, RES TRANSP BUS MANAG, V15, P50, DOI 10.1016/j.rtbm.2015.02.001
+   Sternberg H, 2017, INT J PHYS DISTR LOG, V47, P736, DOI 10.1108/IJPDLM-12-2016-0353
+   Taniguchi E, 2016, TRANSP RES PROC, V12, P5, DOI 10.1016/j.trpro.2016.02.004
+   Toh KTK, 2009, INT J PROD ECON, V122, P216, DOI 10.1016/j.ijpe.2009.05.021
+   Treiblmaier H, 2020, INT J LOGIST MANAG, V31, P239, DOI 10.1108/IJLM-11-2018-0284
+   Xu YX, 2022, TRANSPORT POLICY, V116, P81, DOI 10.1016/j.tranpol.2021.10.020
+   Zhou ZN, 2022, PROD OPER MANAG, V31, P117, DOI 10.1111/poms.13491
+NR 79
+TC 18
+Z9 19
+U1 11
+U2 51
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0968-090X
+EI 1879-2359
+J9 TRANSPORT RES C-EMER
+JI Transp. Res. Pt. C-Emerg. Technol.
+PD APR
+PY 2024
+VL 161
+AR 104544
+DI 10.1016/j.trc.2024.104544
+EA MAR 2024
+PG 22
+WC Transportation Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Transportation
+GA PM3P6
+UT WOS:001214459900001
+DA 2025-10-26
+ER
+
+PT J
+AU De Carvalho, PPS
+   Kalid, RD
+   Rodríguez, JLM
+AF Suzart De Carvalho, Priscila Pereira
+   Kalid, Ricardo De Araujo
+   Moya Rodriguez, Jorge Laureano
+TI Evaluation of the City Logistics Performance Through Structural
+   Equations Model
+SO IEEE ACCESS
+LA English
+DT Article
+DE City logistics performance; stakeholders; key performance factors; urban
+   parameters; structural equation modeling (SEM)
+ID PARTIAL LEAST-SQUARES; MANAGEMENT RESEARCH; PLS-SEM; URBAN; DELIVERIES;
+   GOVERNANCE; SYSTEMS
+AB The objective of this work is to propose a model for evaluating the performance of city logistics by questioning the relationship between the stakeholders involved, key performance factors in terms of efficiency and responsiveness, and urban parameters. The study is of the quantitative exploratory-descriptive type, using auto-administered cross-sectional survey procedure, in which the questionnaire question instrument is available online. The agents classified as shippers were questioned and the data obtained were analyzed using Structural Equation Modeling (SEM) based on Partial Least Squares (PLS) through Smartpls (R) software. Five hypotheses were tested, in which the involved stakeholders factor in the SEM model was not statistically significant in relation to the performance of city logistics, pointing to the need for attention to this in terms of the strategic alignment from a new definition of the agents covered in the distribution of goods in the urban area. In addition, 56.4% of the variance in the city logistic performance variable was explained by the model.
+C1 [Suzart De Carvalho, Priscila Pereira; Kalid, Ricardo De Araujo; Moya Rodriguez, Jorge Laureano] Univ Fed Bahia, Polytech Sch, BR-40210630 Salvador, BA, Brazil.
+   [Suzart De Carvalho, Priscila Pereira] Univ Estadual Santa Cruz, Dept Exact & Technol Sci, Campus Soane Nazare de Andrade, BR-45662900 Ilheus, BA, Brazil.
+   [Kalid, Ricardo De Araujo] Fed Univ Southern Bahia, Sci Technol & Innovat Training Ctr, BR-45613204 Itabuna, Brazil.
+C3 Universidade Federal da Bahia; Universidade Estadual de Santa Cruz
+RP De Carvalho, PPS (corresponding author), Univ Fed Bahia, Polytech Sch, BR-40210630 Salvador, BA, Brazil.; De Carvalho, PPS (corresponding author), Univ Estadual Santa Cruz, Dept Exact & Technol Sci, Campus Soane Nazare de Andrade, BR-45662900 Ilheus, BA, Brazil.
+EM prisuzart@gmail.com
+RI Moya Rodriguez, Jorge Laureano/L-4928-2015; Rodríguez,
+   Jorge/L-4928-2015; de Araújo Kalid, Ricardo/P-8329-2019
+OI Moya Rodriguez, Jorge Laureano/0000-0003-0541-0191; Carvalho,
+   Priscila/0000-0002-5051-5251; 
+CR Ahmad N, 2016, PROD PLAN CONTROL, V27, P500, DOI 10.1080/09537287.2016.1147098
+   [Anonymous], STAT POWER ANAL BEHA
+   [Anonymous], ORG SIST
+   [Anonymous], CONSTITUICAO REPUBLI
+   [Anonymous], SUPPL CHAIN MAN DEF
+   [Anonymous], TECH REP
+   [Anonymous], PARC SOL URB
+   [Anonymous], SMARTPLS 3
+   [Anonymous], OBJ 11 CID COM SUST
+   [Anonymous], THESIS
+   [Anonymous], 1000 MAIOR VAL EC
+   [Anonymous], THESIS
+   [Anonymous], INF SOC MUN ANGR REI
+   [Anonymous], SERV BRAS AP MICR PE
+   [Anonymous], 2017, NUEV AG URB
+   [Anonymous], 2012, LOGISTICA URBANA FUN
+   [Anonymous], POL NAC MOB URB
+   [Anonymous], THESIS
+   [Anonymous], TRANSP SCI
+   [Anonymous], P 16 S PESQ OP LOG M
+   Ballou R., 2006, Gerenciamento da Cadeia de Suprimentos - Planejamento, Organizacao e Logistica Empresarial, V5
+   Björklund M, 2017, RES TRANSP ECON, V64, P36, DOI 10.1016/j.retrec.2017.09.009
+   BOLLEN KA, 1987, SOCIOL METHOD RES, V15, P375, DOI 10.1177/0049124187015004002
+   Cagliano AC, 2017, OPER MANAGE RES, V10, P104, DOI 10.1007/s12063-017-0125-4
+   Chin WW, 1998, QUANT METH SER, P295
+   Chopra S., 2011, Gestao da Cadeia de Suprimentos-Estrategia, Planejamento e Operacoes
+   Dablanc L, 2007, TRANSPORT RES A-POL, V41, P280, DOI 10.1016/j.tra.2006.05.005
+   Silva JAE, 2017, TRANSPORT RES A-POL, V102, P18, DOI 10.1016/j.tra.2016.08.022
+   Estrada M, 2017, TRANSPORT RES E-LOG, V104, P165, DOI 10.1016/j.tre.2017.06.009
+   Fancello G, 2017, RES TRANSP ECON, V65, P56, DOI 10.1016/j.retrec.2017.09.004
+   FORNELL C, 1981, J MARKETING RES, V18, P39, DOI 10.1038/srep42717
+   Gammelgaard B, 2017, RES TRANSP BUS MANAG, V24, P17, DOI 10.1016/j.rtbm.2017.07.005
+   GIL A C., 2010, Como Elaborar Projetos de Pesquisa, V5
+   Hair JF, 2012, J ACAD MARKET SCI, V40, P414, DOI 10.1007/s11747-011-0261-6
+   Hair JF Jr, 2014, EUR BUS REV, V26, P106, DOI 10.1108/EBR-10-2013-0128
+   Hair JF, 2012, LONG RANGE PLANN, V45, P320, DOI 10.1016/j.lrp.2012.09.008
+   Harnik R, 2012, J COSMOL ASTROPART P, DOI 10.1088/1475-7516/2012/07/026
+   Hesse M., 1995, World Transport PolicyPractice, V1, P39, DOI DOI 10.1108/13527619510102034
+   Janjevic M, 2017, TRANSPORT RES A-POL, V102, P98, DOI 10.1016/j.tra.2016.10.027
+   Joseph F.Hair., 2016, A primer on partial least squares structural equation modeling (PLS-SEM)
+   Kedia A, 2017, CASE STUD TRANSP POL, V5, P587, DOI 10.1016/j.cstp.2017.10.009
+   Krajangsri T, 2017, J MANAGE ENG, V33, DOI 10.1061/(ASCE)ME.1943-5479.0000509
+   Le Pira M, 2017, EUR TRANSP RES REV, V9, DOI 10.1007/s12544-017-0268-2
+   Macario R., 2001, Managing Service Quality: An International Journal, V11, P93
+   Marcucci E, 2017, RES TRANSP ECON, V65, P3, DOI 10.1016/j.retrec.2017.09.001
+   Maroco J., 2010, Analise de equacoes estruturais: fundamentos teoricos
+   Mayr S, 2007, TUTOR QUANT METHODS, V3, P51, DOI 10.20982/tqmp.03.2.p051
+   Muñuzuri J, 2005, CITIES, V22, P15, DOI 10.1016/j.cities.2004.10.003
+   OECD, 2003, DEL GOODS 21 CENT CH
+   Oliveira LK, 2018, SUSTAINABILITY-BASEL, V10, DOI 10.3390/su10041233
+   Peng DX, 2012, J OPER MANAG, V30, P467, DOI 10.1016/j.jom.2012.06.002
+   Prell C, 2009, SOC NATUR RESOUR, V22, P501, DOI 10.1080/08941920802199202
+   Ringle CM, 2012, MIS QUART, V36, pIII
+   Ringle CM, 2014, REV BRASIL MARK, V13, P54, DOI 10.5585/remark.v13i2.2717
+   Russo F., 2011, Research in Transportation Economics, Vol, V31, P81, DOI [10.1016/j.retrec.2010.11.011, DOI 10.1016/J.RETREC.2010.11.011]
+   Russo F, 2016, SUSTAINABILITY-BASEL, V8, DOI 10.3390/su8040381
+   Silva T. L. L., 2016, THESIS
+   Simatupang TM., 2002, International Journal of Logistics Management, V13, P15, DOI [DOI 10.1108/09574090210806333, 10.1108/09574090210806335, DOI 10.1108/09574090210806333/FULL/HTML]
+   Aharonovitz MCS, 2018, INT J LOGIST MANAG, V29, P284, DOI 10.1108/IJLM-09-2016-0204
+   Stathopoulos A, 2012, J TRANSP GEOGR, V22, P34, DOI 10.1016/j.jtrangeo.2011.11.017
+   Tadić S, 2018, Transportation Research Procedia, V30, P285, DOI [10.1016/j.trpro.2018.09.031, 10.1016/j.trpro.2018.09.031, DOI 10.1016/J.TRPRO.2018.09.031, 10.1016/j.trpro.2018.09.03110.1016/j.trpro.2018.09.031, DOI 10.1016/J.TRPRO.2018.09.03110.1016/J.TRPRO.2018.09.031]
+   Taniguchi E, 2003, TRANSPORT REV, V23, P489, DOI 10.1080/01441640210163999
+   Taniguchi E., 2001, CITY LOGISTICS
+   Vieira J, 2009, SUPPLY CHAIN MANAG, V14, P11, DOI 10.1108/13598540910927269
+   Vieira JG, 2016, TRANSPORTES, V24, P10, DOI [10.14295/transportes.v24i4.912, 10.14295/transportes.v24i4.912, DOI 10.14295/TRANSPORTES.V24I4.912]
+   Voinov A, 2010, ENVIRON MODELL SOFTW, V25, P1268, DOI 10.1016/j.envsoft.2010.03.007
+NR 66
+TC 10
+Z9 11
+U1 1
+U2 27
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2019
+VL 7
+BP 121081
+EP 121094
+DI 10.1109/ACCESS.2019.2934647
+PG 14
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Engineering; Telecommunications
+GA KF6TF
+UT WOS:000509372300002
+OA gold
+DA 2025-10-26
+ER
+
+PT J
+AU Nocera, S
+   Cavallaro, F
+AF Nocera, Silvio
+   Cavallaro, Federico
+TI A two-step method to evaluate the Well-To-Wheel carbon efficiency of
+   Urban Consolidation Centres
+SO RESEARCH IN TRANSPORTATION ECONOMICS
+LA English
+DT Article
+DE Urban freight transport; CO2 emissions; Well-to-wheel analysis; Urban
+   consolidation centre; Lucca
+ID FREIGHT TRANSPORT; CO2 EMISSIONS; VALUATION; VEHICLES; MOBILITY; MODELS
+AB With 25% of CO2 transport-related emissions, urban freight mobility is a relevant cause of climate change. Its optimization is a main aim of the Sustainable Urban Logistic Plans. Currently, the CO2 analysis of such plans is mostly based on a Tank-To-Wheel approach, which does not consider fuel production and distribution, thus not providing a comprehensive evaluation of its carbon effects. In this paper, we propose an alternative two-step approach: after quantifying CO2 emissions through a Well-To-Wheel methodology, which assesses the entire energy pathway of the fuel, we valuate them economically, using a meta-analysis of 700 studies. We test this model to assess the carbon potentialities of a new Urban Consolidation Centre (UCC) in the city of Lucca, Italy. Our results indicate a potential yearly saving of up to 190 tCO(2) (which corresponds to about 10,000 of social cost savings). These benefits are mostly obtained through third funds, which make the investment financially sustainable for the municipality. With adequate adaptations, the model can be used in other urban areas to assess the carbon potentiality of different transport measures. Furthermore, an integration of the long-distance freight movement can provide the total CO2 contribution of freight transport. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Nocera, Silvio; Cavallaro, Federico] Univ IUAV Venezia, S Croce 191, I-30123 Venice, Italy.
+C3 IUAV University Venice
+RP Nocera, S (corresponding author), Univ IUAV Venezia, S Croce 191, I-30123 Venice, Italy.
+EM nocera@iuav.it; arch.federico.cavallaro@gmail.com
+RI CAVALLARO, FEDERICO/AAK-9173-2020; Nocera, Silvio/D-3914-2011;
+   Cavallaro, Federico/AAK-9173-2020
+OI CAVALLARO, FEDERICO/0000-0003-4341-3924; Nocera,
+   Silvio/0000-0001-8891-6459; 
+CR ALICE ERTRAC, 2015, URB FREIGHT RES ROAD
+   Allen J., 2007, GOODPRACTICE GUIDE U
+   Ambrosino G., 2015, GUIDELINES DEV IMPLE
+   [Anonymous], 2011, COM, P144
+   [Anonymous], 2009, EN CONS CO2 EM OTH C
+   [Anonymous], 2015, 2030 FRAM CLIM EN PO
+   [Anonymous], 2009, BC3 WORKING PAPER SE
+   [Anonymous], 2014, EU EN FIG STAT POCK EU EN FIG STAT POCK
+   [Anonymous], 2012, Technology Roadmap: Fuel Economy of Road Vehicles
+   [Anonymous], 2010, CO2 EM FUEL COMB
+   [Anonymous], 2015, PAR PROT BLUEPR TACK
+   BANISTER D, 2006, VISIONING BACKCASTIN
+   Black W.R., 2010, Sustainable Transportation
+   Browne M., 2007, 11 WORLD C TRANSP RE
+   Browne M., 2004, CONTR 3 INT C CIT LO, P17
+   Browne M, 2007, EUR TRANSP, P46
+   Browne M, 2011, IATSS RES, V35, P1, DOI 10.1016/j.iatssr.2011.06.002
+   Bush C, 2006, ENV APPRAISAL PROPOS
+   Cappelli A, 2006, WIT TRANS BUILT ENV, V89, P369, DOI 10.2495/UT060371
+   Cass D, 2011, J CONSTR ENG M, V137, P1015, DOI 10.1061/(ASCE)CO.1943-7862.0000349
+   Cavallaro F, 2013, EUR TRANSP
+   Clarkson R., 2002, Estimating the Social Cost of Carbon Emissions
+   Comune di Lucca, 2013, PIAN AZ EN SOST
+   Demir E, 2011, TRANSPORT RES D-TR E, V16, P347, DOI 10.1016/j.trd.2011.01.011
+   DGET Directorate-General for Energy and Transport., 2006, MIDT REV EUR COMM 20
+   Di Bugno M, 2013, CTR ECOCOMPATIBILE D
+   Dray LM, 2012, ENVIRON SCI TECHNOL, V46, P4734, DOI 10.1021/es204301z
+   EC, 2015, STAT ART ALT FUELS T
+   EC European Commission, 2015, RES MAK DIFF HIGHL E
+   EC European Commission, 2008, BACKC APPR SUST MOB
+   Edwards R., 2013, WELL TANK AP PENDIX
+   Enclose, 2015, EN EFF CIT LOG SERV
+   Enclose, 2014, LOC IMP ASS EN ENV L
+   Energy.gov & Office of Energy Efficiency & Renewable Energy, 2015, HYDR PROD NAT GAS RE
+   ERMES European Research Group on Mobile Emission Sources, 2016, INFORM PAPER
+   Fontaras Georgios, 2013, SAE TECHNICAL PAPER
+   Gatta V, 2014, TRANSPORT POLICY, V36, P248, DOI 10.1016/j.tranpol.2014.09.007
+   Guerra S., 2013, ENERGY EFFICIENT SUS
+   IEEP, 2009, ENV HARMF SUBS ID AS
+   *INFRAS, 2014, HDB EM FACT ROAD TRA
+   IPCC Intergovernmental Panel on Climate Change, 2013, QUANT UNC PRACT
+   Italian National Institute of Statistics, 2011, 9 Censimento industria e servizi 2011
+   Korzhenevych A., 2014, Update of the handbook on external costs of transport
+   Kouridis C., 2000, COPERT 111 COMPUTER
+   Lazzarini A., 2012, LOVE LUCCA ENTRO IT
+   Luccaport, 2015, CART SERV
+   Macharis C, 2011, NECTAR SER TRANSP, P1
+   Macharis C, 2010, TRANSPORT POLICY, V17, P303, DOI 10.1016/j.tranpol.2010.02.004
+   Maibach M., 2008, Handbook on Estimation of External Cost in the Transport Sector
+   McKinnon AC, 2009, ENERG POLICY, V37, P3733, DOI 10.1016/j.enpol.2009.07.007
+   MDS Transmodal Limited, 2012, DC MOV EUR COMM STUD
+   Nissan, 2015, NISS E NV 200 VAN TE
+   Nocera S., 2012, EUR TRANSP RES REV, V4, P91, DOI DOI 10.1007/S12544-012-0073-X
+   Nocera S, 2014, TRANSP RES PROC, V3, P760, DOI 10.1016/j.trpro.2014.10.055
+   Nocera S, 2016, TRANSPORT RES D-TR E, V47, P222, DOI 10.1016/j.trd.2016.06.004
+   Nocera S, 2016, TRANSPORT POLICY, V50, P1, DOI 10.1016/j.tranpol.2016.05.013
+   Nocera S, 2015, RES TRANSP ECON, V51, P71, DOI 10.1016/j.retrec.2015.07.009
+   Nocera S, 2015, TRANSPORT POLICY, V37, P31, DOI 10.1016/j.tranpol.2014.10.004
+   Nocera S, 2014, J ADV TRANSPORT, V48, P138, DOI 10.1002/atr.1249
+   Nocera Silvio, 2014, Computer-Based Modelling and Optimization in Transportation, P113, DOI [10.1007/978-3-319-04630-3_9, DOI 10.1007/978-3-319-04630-3_9]
+   Nordtomme ME, 2015, TRANSPORT POLICY, V44, P179, DOI 10.1016/j.tranpol.2015.08.005
+   Pellegrini Masini G, 2015, ENV POLICIES MUNICIP
+   Schliwa G, 2015, RES TRANSP BUS MANAG, V15, P50, DOI 10.1016/j.rtbm.2015.02.001
+   Sinha K.C., 2007, TRANSPORTATION DECIS
+   Stathopoulos A, 2012, J TRANSP GEOGR, V22, P34, DOI 10.1016/j.jtrangeo.2011.11.017
+   Stelling P, 2014, RES TRANSP BUS MANAG, V12, P47, DOI 10.1016/j.rtbm.2014.08.004
+   Svensson AM, 2007, ENERGY, V32, P437, DOI 10.1016/j.energy.2006.07.029
+   Taniguchi E, 2000, TRANSPORT REV, V20, P65, DOI 10.1080/014416400295347
+   Transport Research Support TRS., 2009, FREIGHT TRANSPORT DE
+   van Duin JHR, 2010, PROCD SOC BEHV, V2, P6177, DOI 10.1016/j.sbspro.2010.04.029
+   van Rooijen T, 2010, PROCD SOC BEHV, V2, P5967, DOI 10.1016/j.sbspro.2010.04.011
+   Vatopoulos K., 2012, Study on the state of play of energy efficiency of heat and electricity production technologies
+   Vigon Bruce., 1993, ASSESSMENT LIFE LONG
+   Watkiss P., 2005, The Social Costs of Carbon (SCC) Review: Methodological Approaches for Using SCC Estimates in Policy Assessment
+   Wefering F., 2013, GUIDELINES DEV IMPLE
+NR 75
+TC 40
+Z9 41
+U1 4
+U2 38
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0739-8859
+EI 1875-7979
+J9 RES TRANSP ECON
+JI Res. Transp. Econ.
+PD OCT
+PY 2017
+VL 65
+BP 44
+EP 55
+DI 10.1016/j.retrec.2017.04.001
+PG 12
+WC Economics; Transportation
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Transportation
+GA FT2WR
+UT WOS:000423007200006
+DA 2025-10-26
+ER
+
+PT C
+AU Stickel, M
+   Furmans, K
+AF Stickel, M
+   Furmans, K
+BE Brebbia, CA
+   Wadhwa, LC
+TI A web-based support tool to coordinate logistic activities in dense
+   populated areas using auctions
+SO URBAN TRANSPORT XI: URBAN TRANSPORT AND THE ENVIRONMENT IN THE 21ST
+   CENTURY
+LA English
+DT Proceedings Paper
+CT 11th International Conference on Urban Transport and the Environment in
+   the 21st Century
+CY APR 12-14, 2005
+CL Algarve, PORTUGAL
+SP Wessex Inst Technol, Transact Wessex Inst
+AB In the context of research project MOSCA (MOSCA: Decision Support System for Integrated Door-To-Door Delivery: Planning and Control in Logistic Chains, IST 2000-29557), promoted by the European Union, a prototype of a wcb-based support tool (web-portal) was developed. Its purpose was to improve communication and coordination between participants of the traffic system. These participants were divided into two segments: the supply-side and the demand-side. The supplyside consists of cities and municipalities which "supply" the traffic infrastructure. On the other hand, the senders and receivers of goods (companies, stores) use ("demand") this traffic infrastructure, The starting point is the rising extent of utilization or the traffic system in urban areas, which today has already reached its capacity limits. In order to work against this, the city of Lugano in Switzerland examined whether it is meaningful to limit the entry of trucks into the city. Only vehicles that can show proof of an existing parking bay will be granted admission to the city center. Thereby the possibility of dynamic pricing of parking areas and the assignment of parking bays by means of auctions were investigated. The suggested web-portal represents a technical possibility to implement such an access restriction. By publishing information of open capacities, all participants are able to realize more efficient plans of city-logistic activities in dense populated areas, since this information can be used in logistic planning algorithms.
+C1 Univ Karlsruhe TH, Inst Conveying Technol & Logist Syst, Karlsruhe, Germany.
+C3 Helmholtz Association; Karlsruhe Institute of Technology
+RP Stickel, M (corresponding author), Univ Karlsruhe TH, Inst Conveying Technol & Logist Syst, Karlsruhe, Germany.
+OI Furmans, Kai/0000-0001-6009-5564
+CR Alicke K., 2003, Planung und Betrieb von Logistiknetzwerken
+   CARDENEO A, 2003, DISTRIBUTION
+   LOHMANN M, 1998, SCHRIFTEN WIRTSCHAFT, V10
+   MANN HU, 2001, 965781999 FE
+   Pankratz G, 2000, OPERATIONS RESEARCH PROCEEDINGS 1999, P443
+   PANKRATZ G, 2003, 351 FERN U HAGEN
+   PANKRATZ G, 2002, THESIS FERN U HAGEN
+   Simchi-Levi D., 2000, Designing and Managing the Supply Chain: Concepts
+   SMART A, 2002, INT J LOGISTICS RES, V5
+NR 9
+TC 2
+Z9 2
+U1 0
+U2 0
+PU WIT PRESS
+PI SOUTHAMPTON
+PA ASHURST LODGE, SOUTHAMPTON SO40 7AA, ASHURST, ENGLAND
+BN 1-84564-008-X
+PY 2005
+BP 601
+EP 607
+PG 7
+WC Transportation Science & Technology
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Transportation
+GA BCM94
+UT WOS:000230076600058
+DA 2025-10-26
+ER
+
+PT J
+AU Kancharla, SR
+   Ramadurai, G
+AF Kancharla, Surendra Reddy
+   Ramadurai, Gitakrishnan
+TI Simulated Annealing Algorithm for Multi Depot Two-Echelon Capacitated
+   Vehicle Routing Problem
+SO EUROPEAN TRANSPORT-TRASPORTI EUROPEI
+LA English
+DT Article
+DE Two-Echelon Capacitated Vehicle Routing Problem; Simulated Annealing;
+   Mixed-Integer Linear Programming
+ID URBAN CONSOLIDATION CENTER; LOGISTICS; EMISSIONS
+AB Although urban freight transport is a significant contributor to the development of a country, it has adverse effects on the environment and the quality of life in urban areas. To reduce these adverse effects, we can deploy sustainable city logistic strategies. Scheduling and routing of vehicles is a crucial decision in city logistic strategies. Hence, in this paper, we solve the Multi-Depot Two Echelon Capacitated Vehicle Routing Problem (MD2E-CVRP), which is a variant of Vehicle Routing Problem (VRP) with heterogeneous fleets at both levels. Since VRP is NP-hard, we have proposed a Simulated Annealing (SA) based heuristic solution algorithm and have tested it on the standard 2E- CVRP and MD2E-CVRP instances. The results obtained from SA have a good solution quality at just one-fiftieth of computational time using CPLEX and was found to be faster than Adaptive Large Neighborhood Search (ALNS) with only a marginal drop in solution quality.
+C1 [Kancharla, Surendra Reddy; Ramadurai, Gitakrishnan] Indian Inst Technol Madras, Dept Civil Engn, Chennai 600036, Tamil Nadu, India.
+C3 Indian Institute of Technology System (IIT System); Indian Institute of
+   Technology (IIT) - Madras
+RP Kancharla, SR (corresponding author), Indian Inst Technol Madras, Dept Civil Engn, Chennai 600036, Tamil Nadu, India.
+EM surendrareddy.kancharla@gmail.com
+RI Kancharla, Surendra/B-3529-2015; Ramadurai, Gitakrishnan/B-7150-2017
+OI Ramadurai, Gitakrishnan/0000-0002-1787-9838; Kancharla, Surendra
+   Reddy/0000-0002-5335-2304
+FU Ministry of Urban Development, Government of India; Shakthi Sustainable
+   Energy Foundation
+FX The authors thank the Centre of Excellence in Urban Transport sponsored
+   by the Ministry of Urban Development, Government of India and Shakthi
+   Sustainable Energy Foundation for supporting this study.
+CR Allen J, 2012, TRANSPORT REV, V32, P473, DOI 10.1080/01441647.2012.688074
+   Anderson S., 2005, J TRANSP GEOGR, V13, P71, DOI [DOI 10.1016/J.JTRANGEO.2004.11.002, 10.1016/j.jtrangeo.2004.11.002]
+   [Anonymous], 2007, P 22 EUR C OP RES PR
+   [Anonymous], 2011, PROCEDIA ENG
+   Ballot E, 2010, PROD PLAN CONTROL, V21, P640, DOI 10.1080/09537287.2010.489276
+   Browne M, 2007, EUR TRANSP, P46
+   Crainic TG, 2004, TRANSPORT RES C-EMER, V12, P119, DOI 10.1016/j.trc.2004.07.002
+   Daniela P, 2014, TRANSP RES PROC, V3, P508, DOI 10.1016/j.trpro.2014.10.032
+   Danielis R, 2010, EUR TRANSP, P114
+   De Souza R, 2014, PROCD SOC BEHV, V125, P422, DOI 10.1016/j.sbspro.2014.01.1485
+   Gonzalez-Feliu J, 2012, PROCD SOC BEHV, V39, P172, DOI 10.1016/j.sbspro.2012.03.099
+   JACOBSEN SK, 1980, EUR J OPER RES, V5, P378, DOI 10.1016/0377-2217(80)90124-1
+   Jepsen M, 2013, TRANSPORT SCI, V47, P23, DOI 10.1287/trsc.1110.0399
+   Kancharla SR, 2019, NETW SPAT ECON, V19, P969, DOI 10.1007/s11067-018-9437-7
+   Kijewska K, 2016, TRANSP RES PROC, V14, P1543, DOI 10.1016/j.trpro.2016.05.119
+   Kin B, 2016, TRANSP RES PROC, V12, P357, DOI 10.1016/j.trpro.2016.02.072
+   KIRKPATRICK S, 1983, SCIENCE, V220, P671, DOI 10.1126/science.220.4598.671
+   Lindawati, 2014, INT J URBAN SCI, V18, P278, DOI 10.1080/12265934.2014.917983
+   Muñuzuri J, 2005, CITIES, V22, P15, DOI 10.1016/j.cities.2004.10.003
+   Perboli G., 2010, Electronic notes in discrete mathematics, V36, P639, DOI DOI 10.1016/J.ENDM.2010.05.081
+   Perboli G, 2011, TRANSPORT SCI, V45, P364, DOI 10.1287/trsc.1110.0368
+   Schwengerer Martin, 2012, Evolutionary Computation in Combinatorial Optimization. Proceedings of the 12th European Conference, EvoCOP 2012, P13, DOI 10.1007/978-3-642-29124-1_2
+   Thompson RG, 2012, PROCD SOC BEHV, V39, P230, DOI 10.1016/j.sbspro.2012.03.104
+   van der Voet J, 2014, EUR MANAG J, V32, P373, DOI 10.1016/j.emj.2013.10.001
+   Nguyen VP, 2012, EUR J OPER RES, V216, P113, DOI 10.1016/j.ejor.2011.07.030
+NR 25
+TC 0
+Z9 1
+U1 0
+U2 12
+PU UNIV STUDI TRIESTE, IST STUDIO TRASPORTI INTEGRAZIONE ECON
+   EUROPEA-ISTIEE
+PI TRIESTE
+PA VIA DEL LAZZARETTO VECCHIO 13, TRIESTE, 34123, ITALY
+SN 1825-3997
+J9 EUR TRANSP
+JI Eur. Transp.
+PD JUN
+PY 2020
+IS 78
+AR 8
+PG 13
+WC Transportation
+WE Emerging Sources Citation Index (ESCI)
+SC Transportation
+GA NS7ZG
+UT WOS:000572475500008
+DA 2025-10-26
+ER
+
+PT C
+AU Kosovac, A
+   Ferizovic, A
+AF Kosovac, Amel
+   Ferizovic, Azra
+BE Lakusic, S
+TI MATHEMATICAL MODEL OF MEASUREMENT OF POSITIVE EFFECTS ON THE APPLICATION
+   OF ELECTRICAL VEHICLES IN CITY LOGISTICS
+SO ROAD AND RAIL INFRASTRUCTURE V
+SE Road and Rail Infrastructure
+LA English
+DT Proceedings Paper
+CT 5th International Conference on Road and Rail Infrastructure (CETRA)
+CY MAY 17-19, 2018
+CL Zadar, CROATIA
+SP Univ Zagreb, Univ Zagreb, Fac Civil Engn, Dept Transportat Engn, Croatian Acad Engn, Minist Sci & Educ, Minist Sea, Transport & Infrastructure, Minist Construct & Phys Planning, Int Road Federat, Forum European Natl Highway Res Labs, Geobrugg AG, Monterra d o o, Siemens d d, Beton Lucko d o o, Nin Saltworks
+DE city logistics center; an electric vehicle; power consumption; diesel
+   and gasoline engines; CO2
+AB According to estimates from 2010, the Canton of Sarajevo has about 465,000 inhabitants. City logistics centers are normally formed in all cities with more than 300,000 inhabitants. City logistics centers based on traffic and favorable locations on the periphery of cities or in the metropolitan area and connect the input and output streams, coordinate the flow of goods in the supply and the transportation of the urban area. This paper presents the possibility of building a city logistics center at the site of the city of Sarajevo, which we received on the basis of the method of assessment of credits offered three alternative sites. After choosing a location to build a city logistic center on the basis of mathematical methods, we calculated the effects of the electric vehicles in terms of driving energy consumption, economic viability and environmental protection between city logistics center Rajlovac-central zone of the city of Sarajevo. The paper will show the comparison of the efficiency of an electric car with respect to classical internal combustion vehicles and an analysis of the influence of classic diesel, petrol and electric motors on the environment for the planned relationship of the city of the logistics center Rajlovac - the central zone of the city of Sarajevo.
+C1 [Kosovac, Amel; Ferizovic, Azra] Univ Sarajevo, Fac Traff & Commun, Sarajevo, Bosnia & Herceg.
+C3 University of Sarajevo
+RP Kosovac, A (corresponding author), Univ Sarajevo, Fac Traff & Commun, Sarajevo, Bosnia & Herceg.
+RI Ferizović, Azra/GLS-8606-2022; Kosovac, Amel/GLS-5828-2022
+CR Deljanin A., 2017, SUVREMENI PROMET MOD, V37, P30
+   Jochem P, 2016, TRANSPORT RES D-TR E, V42, P60, DOI 10.1016/j.trd.2015.09.022
+   Kosovac A., 2015, SUVREMENI PROMET MOD, V35, P327
+   Martínez-Lao J, 2017, RENEW SUST ENERG REV, V77, P970, DOI 10.1016/j.rser.2016.11.239
+   Ugurlu A, 2015, INT J HYDROGEN ENERG, V40, P11178, DOI 10.1016/j.ijhydene.2015.02.115
+NR 5
+TC 1
+Z9 1
+U1 0
+U2 4
+PU UNIV ZAGREB, FAC CIVIL ENGINEERING
+PI ZAGREB
+PA DEPT TRANSPORTATION, KACICEVA 26, ZAGREB, 10000, CROATIA
+SN 1848-9850
+J9 ROAD RAIL INFRASTR
+PY 2018
+BP 1533
+EP 1540
+DI 10.5592/CO/CETRA.2018.643
+PG 8
+WC Engineering, Civil; Transportation Science & Technology
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering; Transportation
+GA BO5MR
+UT WOS:000518218300193
+OA hybrid
+DA 2025-10-26
+ER
+
+PT C
+AU Eidhammer, O
+   Andersen, J
+   Johansen, BG
+AF Eidhammer, Olav
+   Andersen, Jardar
+   Johansen, Bjorn Gjerde
+BE Iwan, S
+   Thompson, RG
+   Kijewska, K
+TI Private public collaboration on logistics in Norwegian cities
+SO 2ND INTERNATIONAL CONFERENCE GREEN CITIES - GREEN LOGISTICS FOR GREENER
+   CITIES
+SE Transportation Research Procedia
+LA English
+DT Proceedings Paper
+CT 2nd International Conference on Green Cities - Green Logistics for
+   Greener Cities
+CY MAR 02-03, 2016
+CL Szczecin, POLAND
+DE City logistics; collaboration; urban freight planning; transport
+   industry
+AB This paper presents conclusions from a survey among urban freight actors in the four biggest cities in Norway (Oslo, Bergen, Stavanger and Trondheim). The survey focus on logistic operations and transport decisions affecting the city logistics. In the studied cities we found that there is lack of emphasis on urban logistics and urban freight transport planning. The survey indicates that the missing focus on logistic activities is due to lack of co-ordination among actors involved in urban logistics, and often insufficient dialogue between city authorities and private actors who operate in the cities. Representatives from the industries do not always understand the municipal planning processes and on which level of bureaucracy the plans are accomplished.
+   To solve challenges a suggestion related to urban logistics and collaboration among private and public actors is to develop structured Urban Logistic Plans. A part of such plans should be the involvement of all stakeholders in the exploitation and processes of development. The stakeholders must also be involved in policy development and strategic planning processes. The survey indicates that congestion and access to centrally located loading and unloading zones are the biggest problem for freight transport in Norwegian urban areas. From the industry, there is a request that loading and unloading zones must be incorporated as part of land use plans.
+   It was also stressed that local authorities must include plans for goods deliveries in line with services from taxi and public transport in sustainable urban mobility plans (SUMPs). (C) 2016 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license.
+C1 [Eidhammer, Olav; Andersen, Jardar; Johansen, Bjorn Gjerde] Inst Transport Econ, Gaustadalleen 21, N-0349 Oslo, Norway.
+C3 Institute of Transport Economics
+RP Eidhammer, O (corresponding author), Inst Transport Econ, Gaustadalleen 21, N-0349 Oslo, Norway.
+EM oe@toi.no
+OI Andersen, Jardar/0000-0003-4536-8071; Johansen, Bjorn
+   Gjerde/0000-0002-9252-3698
+CR ALLEN J., 2010, Freight Quality Partnerships in the UK - an analysis of their work and achievements
+   [Anonymous], 2007, LOND FREIGHT PLAN SU
+   [Anonymous], GUID FULL LOC TRANSP
+   [Anonymous], 2011, CISC VIS NETW IND GL
+   [Anonymous], 2010, WORLD URB PROSP 2009
+   Browne M, 2014, FREIGHT QUALITY PART
+   Ecorys University of Antwerp University of Lisbon and Prof Dablanc, 2015, 1 U ANTW U LISB PROF
+   Eidhammer O, 2015, 50803 TOI
+   Eidhammer O, 2015, 13942015 TOI
+   European Commission, 2009, 2009490 COM EUR COMM
+   European Commission, 2012, NEW CULT URB MOB GRE
+   European Commission, 2013, 2013524 SWD EUR COMM
+   European Commission, 2012, STUD URB FREIGHT TRA
+   Lindholm M, 2010, PROCD SOC BEHV, V2, P6205, DOI 10.1016/j.sbspro.2010.04.031
+   LUKS, 2015, 4311 LUKS
+   Macharis C, 2011, NECTAR SER TRANSP, P1
+   SUGAR, 2011, CIT LOG BEST PRACT H
+   Transport for London, 2013, DEL ROAD FREIGHT LEG
+   TURBLOG, 2011, DEL 2 BUS CONC MOD U
+NR 19
+TC 10
+Z9 11
+U1 0
+U2 11
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 2352-1465
+J9 TRANSP RES PROC
+PY 2016
+VL 16
+BP 81
+EP 88
+DI 10.1016/j.trpro.2016.11.009
+PG 8
+WC Green & Sustainable Science & Technology; Transportation; Urban Studies
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Science & Technology - Other Topics; Transportation; Urban Studies
+GA BG6NF
+UT WOS:000390612800008
+OA gold
+DA 2025-10-26
+ER
+
+PT J
+AU Kosch, M
+   Maas, J
+   Straube, F
+AF Kosch, Martin
+   Maas, Julian
+   Straube, Frank
+TI Evaluating cost and design implications of a two-stage autonomous urban
+   delivery system
+SO SUPPLY CHAIN FORUM
+LA English
+DT Article; Early Access
+DE Autonomous last mile delivery; autonomous fulfillment delivery concepts;
+   last mile logistics; Van-and-Robot concept; urban areas
+AB Driven by trends as urbanisation and innovative business models in online retailing, e-commerce is experiencing rapid growth. Paired with new customer expectations and increasing labour shortage as well as inefficient last-mile delivery, urban logistic concepts are in need for innovative solutions. Autonomous vehicles delivering shipments in a so-called Van-and-Robot (VnR) concept appear like a promising approach to tackle these hurdles, since limitations of delivery robots regarding speed and range can be compensated, while maintaining flexibility and the ability to bundle shipments. But since this concept was never implemented and requires the integration of two autonomous vehicles, it shows high implementation cost and uncertainties with regard to technical requirements. Therefore, this study aims to analyse the impact of the use of a VnR delivery concept on urban last mile delivery costs. Furthermore, the system-determining parameters with regard to these costs should be defined in order to design an efficient VnR concept usage. These implications should also serve as a guideline for practitioners to support an implementation.
+C1 [Kosch, Martin; Maas, Julian; Straube, Frank] Tech Univ Berlin, Chair Logist, Str 17 Juni 135, D-10623 Berlin, Germany.
+C3 Technical University of Berlin
+RP Kosch, M (corresponding author), Tech Univ Berlin, Chair Logist, Str 17 Juni 135, D-10623 Berlin, Germany.
+EM kosch@logistik.tu-berlin.de
+FU German Federal Ministry for Digital and Transport (BMDV) [01MM20004]
+FX This paper is based on the research conducted in the BeIntelli project,
+   funded by the German Federal Ministry for Digital and Transport (BMDV)
+   under the funding reference number [01MM20004].
+CR Augusto MG, 2025, LOGISTICS-BASEL, V9, DOI 10.3390/logistics9010010
+   BeIntelli, 2024, KI fur Die Autonome Mobilitat
+   Boysen N, 2018, EUR J OPER RES, V271, P1085, DOI 10.1016/j.ejor.2018.05.058
+   Brabander C., 2020, Die Letzte Meile
+   Demir E, 2015, TRANSPORT RES E-LOG, V77, P95, DOI 10.1016/j.tre.2015.02.020
+   Pugliese LD, 2021, NETWORKS, V78, P371, DOI 10.1002/net.22015
+   Domschke Wolfgang., 2015, Einfuhrung in Operations Research
+   Firdausiyah N, 2019, TRANSPORT RES E-LOG, V125, P74, DOI 10.1016/j.tre.2019.02.011
+   Flamig Heike., 2015, AUTONOMES FAHREN, P377
+   Gutenschwager K., 2017, SIMULATION PRODUKTIO
+   Heimfarth A, 2022, EUR J OPER RES, V303, P401, DOI 10.1016/j.ejor.2022.02.028
+   Hu WJ, 2019, SUSTAINABILITY-BASEL, V11, DOI 10.3390/su11102724
+   Jennings D, 2019, TRANSPORT RES REC, V2673, P317, DOI 10.1177/0361198119849398
+   Jordan H., 2020, Die Veranderungen des gewerblichen Lieferverkehrs und dessen Auswirkungen auf die stadtische Logistik
+   Kyriakakis NA, 2022, CLEAN LOGIST SUPPL C, V4, DOI 10.1016/j.clscn.2022.100041
+   Lee H.L., 2016, Technological Disruption and Innovation in Last-Mile Delivery
+   Liu R, 2022, SOFT COMPUT, V26, P8879, DOI 10.1007/s00500-021-06692-3
+   Maas J., 2025, New Players in Mobility, P383, DOI [https://doi.org/10.1007/978-3-658-46485-1_24, DOI 10.1007/978-3-658-46485-1_24]
+   Maas J, 2024, INT J LOGIST-RES APP, V27, P2104, DOI 10.1080/13675567.2023.2237454
+   Manderscheid K., 2021, AVENUE21. Politische und planerische Aspekte der automatisierten Mobilitat, DOI [10.1007/978-3-662-63354-0_4, DOI 10.1007/978-3-662-63354-0_4]
+   Mercedes-Benz Group AG, 2017, Mercedes-Benz Vans Invests in Starship Technologies, the World's Leading Manufacturer of Delivery Robots
+   Mladenovic N, 1997, COMPUT OPER RES, V24, P1097, DOI 10.1016/S0305-0548(97)00031-2
+   Na HS, 2022, APPL SCI-BASEL, V12, DOI 10.3390/app12010118
+   Ostermeier M, 2022, NETWORKS, V79, P364, DOI 10.1002/net.22030
+   Paket und Expresslogistik Bundesverband, 2023, Impulsgeber mit Innovationskraft. KEP-Studie 2023-Analyse des Marktes in Deutschland
+   Rabe M, 2021, ALGORITHMS, V14, DOI 10.3390/a14020041
+   Schroder J., 2018, Fast Forwarding Last-Mile Delivery. Implications for the Ecosystem
+   Schroder M., 2019, Logistik im Wandel der Zeit-Von der Produktionssteuerung zu vernetzten Supply Chains
+   Simonia MD, 2020, TRANSPORT RES E-LOG, V142, DOI 10.1016/j.tre.2020.102049
+   Sluijk N, 2023, EUR J OPER RES, V304, P865, DOI 10.1016/j.ejor.2022.02.022
+   Straube F., 2021, Mobility2Grid-Sektorenubergreifende Energie- und Verkehrswende, P181, DOI DOI 10.1007/978-3-662-62629-0_6
+   Taniguchi E., 2023, Urban Freight Analytics
+   Vans M.-B., 2016, Vans & Robots: Efficient Delivery with the Mothership Concept
+   Wadud Z, 2017, TRANSPORT RES A-POL, V101, P163, DOI 10.1016/j.tra.2017.05.005
+   Wang Y, 2024, EUR J OPER RES, V316, P942, DOI 10.1016/j.ejor.2024.02.034
+   World Economic Forum, 2021, Envisioning the Next Normal for the last-Mile Ecosystem
+NR 36
+TC 0
+Z9 0
+U1 0
+U2 0
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1625-8312
+EI 1624-6039
+J9 SUPPLY CHAIN FORUM
+JI Supply Chain Forum
+PD 2025 JUL 6
+PY 2025
+DI 10.1080/16258312.2025.2525747
+EA JUL 2025
+PG 14
+WC Management
+WE Emerging Sources Citation Index (ESCI)
+SC Business & Economics
+GA 4OC1D
+UT WOS:001522621400001
+OA hybrid
+DA 2025-10-26
+ER
+
+PT C
+AU Gruler, A
+   de Armas, J
+   Juan, AA
+AF Gruler, Aljoscha
+   de Armas, Jesica
+   Juan, Angel A.
+BE Alba, E
+   Chicano, F
+   Luque, G
+TI Behavioral Factors in City Logistics from an Operations Research
+   Perspective
+SO SMART CITIES, SMART-CT 2016
+SE Lecture Notes in Computer Science
+LA English
+DT Proceedings Paper
+CT 1st International Conference on Smart Cities (Smart-CT)
+CY JUN 15-17, 2016
+CL Malaga, SPAIN
+DE Smart Cities; City Logistics; Operations Research; Behavioral research;
+   Simulation-optimization
+ID VEHICLE-ROUTING PROBLEM; METAHEURISTICS; MANAGEMENT; DEAL
+AB (I)n the face of sharp urbanization around the world, metropolitan areas have started different initiatives and projects to make cities more efficient and sustainable. Hereby logistics and transportation activities have a major impact in the development of so called 'Smart Cities'. By addressing complex decision making problems through simulation and optimization, the Operations Research community has contributed to the development of sustainable city logistic systems. While technical and structural problems have been extensively discussed in the literature, many models neglect the importance of behavioral issues arising from risk aversion, stakeholder interaction and human factors that play an important role in the consolidation and optimization of logistical activities. This paper reviews existing work considering behavioral factors from an OR perspective. Simulation and optimization models to major problem settings in City Logistics are discussed and methodologies to conquer real-life urban L&T challenges are presented.
+C1 [Gruler, Aljoscha; de Armas, Jesica; Juan, Angel A.] Open Univ Catalonia, Dept Comp Sci IN3, Av Carl Friedrich Gauss 5, Castelldefels 08860, Spain.
+C3 UOC Universitat Oberta de Catalunya
+RP Gruler, A (corresponding author), Open Univ Catalonia, Dept Comp Sci IN3, Av Carl Friedrich Gauss 5, Castelldefels 08860, Spain.
+EM agruler@uoc.edu; jde_armasa@uoc.edu; ajuanp@uoc.edu
+RI de Armas, Jesica/F-1537-2014; Juan, Angel/GWZ-7540-2022
+OI de Armas, Jesica/0000-0002-7619-7407; Juan, Angel A./0000-0003-1392-1776
+CR Agency E.E., 2009, EEA DRAWS 1 MAP EUR
+   Albert G, 2011, EUR TRANSP, P47
+   Juan AA, 2016, ENERGIES, V9, DOI 10.3390/en9020086
+   Anand N, 2012, PROCD SOC BEHV, V39, P101, DOI 10.1016/j.sbspro.2012.03.094
+   [Anonymous], WORLD ELECT VEH J
+   [Anonymous], 2009, P TRANSP LAND US INT
+   [Anonymous], P 7 INT C CIT LOG
+   [Anonymous], 2011, Relatorio sobre a Situacao da Populacao Mundial 2011, P1
+   Awasthi A, 2011, MATH COMPUT MODEL, V53, P98, DOI 10.1016/j.mcm.2010.07.023
+   Badin F., 2013, Evs27, V6, P1, DOI [10.3390/wevj6010112, DOI 10.3390/WEVJ6010112]
+   Bektas T., 2015, From managing urban freight to smart city logistics networks
+   Ben Letaifa S, 2015, J BUS RES, V68, P1414, DOI 10.1016/j.jbusres.2015.01.024
+   Bendoly E, 2006, J OPER MANAG, V24, P737, DOI 10.1016/j.jom.2005.10.001
+   Bianchi Leonora, 2009, Natural Computing, V8, P239, DOI 10.1007/s11047-008-9098-4
+   Boudreau J., 2003, Manufacturing & Service Operations Management, V5, P179, DOI 10.1287/msom.5.3.179.16032
+   Caceres-Cruz Jose, 2015, ACM Computing Surveys, V47, DOI 10.1145/2666003
+   Caragliu A, 2011, J URBAN TECHNOL, V18, P65, DOI 10.1080/10630732.2011.601117
+   Cattaruzza D, 2017, EURO J TRANSP LOGIST, V6, P51, DOI 10.1007/s13676-014-0074-0
+   Cocchia A, 2014, PROGR IS, P13, DOI 10.1007/978-3-319-06160-3_2
+   Contardo C, 2012, COMPUT OPER RES, V39, P3185, DOI 10.1016/j.cor.2012.04.003
+   Crainic TG, 2010, PROCD SOC BEHV, V2, P5944, DOI 10.1016/j.sbspro.2010.04.009
+   Crainic TG, 2009, TRANSPORT SCI, V43, P432, DOI 10.1287/trsc.1090.0279
+   Croson R, 2013, J OPER MANAG, V31, P1, DOI 10.1016/j.jom.2012.12.001
+   Danielis R, 2010, EUR TRANSP, P114
+   Drexl M, 2015, EUR J OPER RES, V241, P283, DOI 10.1016/j.ejor.2014.08.030
+   Ehmke JF, 2012, TRANSPORT RES C-EMER, V21, P338, DOI 10.1016/j.trc.2011.11.004
+   European Commission, 2011, Cities of Tomorrow: Challenges, Visions, Ways Forward
+   Giffinger Rudolf., 2007, City-ranking of European medium-sized cities
+   Hämäläinen RP, 2013, EUR J OPER RES, V228, P623, DOI 10.1016/j.ejor.2013.02.001
+   He H., 2012, AFR J BUS MANAGE, V6, P281
+   Herazo-Padilla N, 2015, J SIMUL, V9, P296, DOI 10.1057/jos.2015.15
+   Juan A, 2011, TRANSPORT RES C-EMER, V19, P751, DOI 10.1016/j.trc.2010.09.007
+   Juan AA, 2015, OPER RES PERSPECT, V2, P62, DOI 10.1016/j.orp.2015.03.001
+   Juan AA, 2014, SIMUL MODEL PRACT TH, V46, P101, DOI 10.1016/j.simpat.2014.02.005
+   Juan AA, 2014, APPL SOFT COMPUT, V21, P84, DOI 10.1016/j.asoc.2014.03.012
+   Koehler U., 2001, City Logistics II, P203
+   Kumar Sanjeev, 2012, International Journal of Medical Engineering and Informatics, V4, P66, DOI 10.1504/IJMEI.2012.045304
+   Lebeau P., 2013, EL VEH S EXH EVS27 2
+   Macal CM, 2010, J SIMUL, V4, P151, DOI 10.1057/jos.2010.3
+   Mancini S, 2013, EUR TRANSP
+   Muñuzuri J, 2013, COMPUT ENVIRON URBAN, V41, P262, DOI 10.1016/j.compenvurbsys.2012.05.005
+   Nowicka K, 2014, PROCD SOC BEHV, V151, P266, DOI 10.1016/j.sbspro.2014.10.025
+   Quak HJ, 2009, TRANSPORT SCI, V43, P211, DOI 10.1287/trsc.1080.0235
+   Qureshi AG, 2012, PROCD SOC BEHV, V39, P205, DOI 10.1016/j.sbspro.2012.03.102
+   Schwengerer Martin, 2012, Evolutionary Computation in Combinatorial Optimization. Proceedings of the 12th European Conference, EvoCOP 2012, P13, DOI 10.1007/978-3-642-29124-1_2
+   Sood A, 2015, PROCD SOC BEHV, V189, P229, DOI 10.1016/j.sbspro.2015.03.218
+   Storey J, 2006, INT J OPER PROD MAN, V26, P754, DOI 10.1108/01443570610672220
+   Sweeney E., 2013, SUPPLY CHAIN MANAGEM, P73
+   Tamagawa D, 2010, PROCD SOC BEHV, V2, P6002, DOI 10.1016/j.sbspro.2010.04.014
+   Taniguchi E., 2007, The Eastern Asia Society for Transportation Studies, Vol, V7, P933
+   Taniguchi E, 2012, PROCD SOC BEHV, V39, P3, DOI 10.1016/j.sbspro.2012.03.087
+   Teo JSE, 2012, PROCD SOC BEHV, V39, P349, DOI 10.1016/j.sbspro.2012.03.113
+   Tokar T, 2010, INT J LOGIST MANAG, V21, P89, DOI 10.1108/09574091011042197
+   United States Environmental Protection Agency, 2013, GREENH GAS EM 1990 2
+   Nguyen VP, 2012, EUR J OPER RES, V216, P113, DOI 10.1016/j.ejor.2011.07.030
+   Wangapisit O, 2014, PROCD SOC BEHV, V125, P472, DOI 10.1016/j.sbspro.2014.01.1489
+NR 56
+TC 2
+Z9 2
+U1 0
+U2 17
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 0302-9743
+EI 1611-3349
+BN 978-3-319-39594-4; 978-3-319-39595-1
+J9 LECT NOTES COMPUT SC
+PY 2016
+VL 9704
+BP 32
+EP 41
+DI 10.1007/978-3-319-39595-1_4
+PG 10
+WC Computer Science, Information Systems; Computer Science,
+   Interdisciplinary Applications; Transportation Science & Technology
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Transportation
+GA BG5XN
+UT WOS:000389804500004
+DA 2025-10-26
+ER
+
+PT C
+AU Marciani, M
+   Cossu, P
+AF Marciani, Massimo
+   Cossu, Paola
+BE Iwan, S
+   Thompson, RG
+TI How the URBeLOG project will enable a new governance model for city
+   logistics in Italian metropolitan areas
+SO GREEN CITIES - GREEN LOGISTICS FOR GREENER CITIES
+SE Procedia Social and Behavioral Sciences
+LA English
+DT Proceedings Paper
+CT 1st International Conference on Green Cities - Green Logistics for
+   Greener Cities
+CY MAY 19-21, 2014
+CL Szczecin, POLAND
+DE urban freight logistics; smart cities; ITS; mobility management; new
+   governance model; inclusion; recognition scheme
+AB The edge of innovation in the field of urban logistic is represented in Italy by the URBeLOG project, that aims to develop and validate a virtuous goods' transport system that will streamline, make more efficient and eco-sustainable and cut the costs of last mile services, also allowing for the development of B2B type, advanced, real-time e-services, for stakeholders to use in an urban fabric. This paper describes the current status of the project as well as the expected valuable outcomes. (C) 2014 The Authors. Published by Elsevier Ltd.
+C1 [Marciani, Massimo] Luiss Univ MBA, I-00198 Rome, Italy.
+   [Cossu, Paola] FIT Consulting Srl, I-00183 Rome, Italy.
+RP Marciani, M (corresponding author), Luiss Univ MBA, Via Pola 5, I-00198 Rome, Italy.
+EM marciani@fitconsulting.it
+CR ACI, 2011, AUT STAT
+   [Anonymous], WHIT PAP EUR TRANSP
+   Benjelloun A, 2010, PROCD SOC BEHV, V2, P6217, DOI 10.1016/j.sbspro.2010.04.032
+   Crainic TG, 2009, TRANSPORT SCI, V43, P432, DOI 10.1287/trsc.1090.0279
+   ISTAT, 2012, STAT ROAD TRANSP GOO
+   MDS Transmodal, 2012, DEL GOODS 21 CENT CH
+   Perboli G., 2010, TRANSPORTATION SCI
+   Schoemaker J., 2006, BEST URBAN FREIGHT S
+NR 8
+TC 8
+Z9 12
+U1 0
+U2 11
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1877-0428
+J9 PROCD SOC BEHV
+PY 2014
+VL 151
+BP 230
+EP 243
+DI 10.1016/j.sbspro.2014.10.022
+PG 14
+WC Environmental Studies; Social Sciences, Interdisciplinary;
+   Transportation; Urban Studies
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Environmental Sciences & Ecology; Social Sciences - Other Topics;
+   Transportation; Urban Studies
+GA BD2EM
+UT WOS:000358695600020
+OA gold
+DA 2025-10-26
+ER
+
+EF
